@@ -1,0 +1,52 @@
+{
+    "17172380": {
+        "title": "How has coal capacity changed?",
+        "subtitle": "Total operating coal-fired power capacity by year since 2000",
+        "x_axis": "Year",
+        "values": [
+            "Capacity"
+        ],
+        "dataset": "gcpt_jan_2024_cumulative_with_country_groupings_for_flourish_NEW",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "17172823": {
+        "title": "How much coal capacity has been added and retired?",
+        "subtitle": "Operating coal-fired power capacity added and retired each year since 2000",
+        "x_axis": "Year",
+        "values": [
+                "Net change", "Added", "Retired"
+        ],
+        "dataset": "gcpt_jan_2024_added_retired_net_change_with_country_groupings_for_flourish",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "17173772": {
+        "title": "How does coal capacity break down by status?",
+        "subtitle": "Coal-fired power capacity by status each year since 2015",
+        "x_axis": "Year",
+        "values": [
+            "Retired",	"Operating", "Mothballed",
+            "Construction",	"Permitted", "Pre-permit",
+            	"Announced", "Shelved", "Cancelled"
+        ],
+        "dataset": "gcpt_jan_2024_status_for_flourish",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "17223802": {
+        "title": "What is the age and technology of operating coal capacity?",
+        "subtitle": "Operating coal-fired power capacity, by unit age group and technology type",
+        "x_axis": "Age group",
+        "values": [
+            "Ultra-supercritical",	"Supercritical",	"Subcritical",	"CFB",	"IGCC",	"Unknown"
+        ],
+        "dataset": "gcpt_jan_2024_plant_age_type_with_country_groupings_for_flourish",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    }
+}

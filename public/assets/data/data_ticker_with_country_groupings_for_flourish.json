@@ -1,0 +1,1010 @@
+[
+  {
+    "Country": "Global",
+    "summary_1": "<span>{{2130}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{578}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{241}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "EU27",
+    "summary_1": "<span>{{107}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.1}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-39}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "G20",
+    "summary_1": "<span>{{1968}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{520}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{197}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "G7",
+    "summary_1": "<span>{{310}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1.3}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-132}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "OECD",
+    "summary_1": "<span>{{461}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{9.4}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-138}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Albania",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Argentina",
+    "summary_1": "<span>{{0.5}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.12}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.12}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Australia",
+    "summary_1": "<span>{{22}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.94}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-4.8}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Austria",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.76}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Bangladesh",
+    "summary_1": "<span>{{4.8}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{11}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{4.5}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Belarus",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Belgium",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.56}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "summary_1": "<span>{{2.1}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1.4}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.3}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Botswana",
+    "summary_1": "<span>{{0.73}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Brazil",
+    "summary_1": "<span>{{3.2}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1.3}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.17}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Brunei",
+    "summary_1": "<span>{{0.22}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.22}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Bulgaria",
+    "summary_1": "<span>{{4.6}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.05}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Cambodia",
+    "summary_1": "<span>{{1.4}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.32}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{1}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Canada",
+    "summary_1": "<span>{{4.6}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-5.3}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Chile",
+    "summary_1": "<span>{{4.1}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.49}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "China",
+    "summary_1": "<span>{{1137}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{408}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{263}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Colombia",
+    "summary_1": "<span>{{1.6}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.44}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Croatia",
+    "summary_1": "<span>{{0.22}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Czech Republic",
+    "summary_1": "<span>{{7.4}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.93}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "DR Congo",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Denmark",
+    "summary_1": "<span>{{1.6}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-2.1}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Djibouti",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Dominican Republic",
+    "summary_1": "<span>{{1.1}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.75}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Egypt",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "El Salvador",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Eswatini",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.3}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Ethiopia",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Finland",
+    "summary_1": "<span>{{1.4}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-1.2}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "France",
+    "summary_1": "<span>{{2.5}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-1.2}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Georgia",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Germany",
+    "summary_1": "<span>{{40}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-12}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Ghana",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Greece",
+    "summary_1": "<span>{{2.9}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-2}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Guadeloupe",
+    "summary_1": "<span>{{0.06}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.04}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Guatemala",
+    "summary_1": "<span>{{0.44}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.22}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Guinea",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Honduras",
+    "summary_1": "<span>{{0.1}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.04}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Hong Kong",
+    "summary_1": "<span>{{6.1}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.5}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Hungary",
+    "summary_1": "<span>{{0.94}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "India",
+    "summary_1": "<span>{{237}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{77}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{48}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Indonesia",
+    "summary_1": "<span>{{52}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{16}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{26}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Iran",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.65}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Ireland",
+    "summary_1": "<span>{{0.92}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Israel",
+    "summary_1": "<span>{{4.3}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.58}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Italy",
+    "summary_1": "<span>{{5.5}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-3.5}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Jamaica",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Japan",
+    "summary_1": "<span>{{55}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.5}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{10}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Kazakhstan",
+    "summary_1": "<span>{{13}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.3}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Kenya",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.06}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Kosovo",
+    "summary_1": "<span>{{1.3}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "summary_1": "<span>{{0.81}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.1}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Laos",
+    "summary_1": "<span>{{1.9}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.63}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Latvia",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Madagascar",
+    "summary_1": "<span>{{0.12}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.03}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Malawi",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.9}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Malaysia",
+    "summary_1": "<span>{{13}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{4.6}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Mauritius",
+    "summary_1": "<span>{{0.2}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Mexico",
+    "summary_1": "<span>{{5.4}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Moldova",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Mongolia",
+    "summary_1": "<span>{{0.94}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1.9}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.07}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Montenegro",
+    "summary_1": "<span>{{0.22}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Morocco",
+    "summary_1": "<span>{{4.3}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{1.7}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Mozambique",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1.2}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Myanmar",
+    "summary_1": "<span>{{0.19}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.07}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Namibia",
+    "summary_1": "<span>{{0.12}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Netherlands",
+    "summary_1": "<span>{{3.5}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.79}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "New Zealand",
+    "summary_1": "<span>{{0.5}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Niger",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.2}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Nigeria",
+    "summary_1": "<span>{{0.28}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "North Korea",
+    "summary_1": "<span>{{3.2}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.8}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "North Macedonia",
+    "summary_1": "<span>{{0.82}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Oman",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Pakistan",
+    "summary_1": "<span>{{7.6}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{4.7}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{7.6}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Panama",
+    "summary_1": "<span>{{0.31}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.19}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Peru",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.14}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Philippines",
+    "summary_1": "<span>{{12}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{3.1}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{5.7}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Poland",
+    "summary_1": "<span>{{29}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.1}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.19}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Portugal",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-2}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Romania",
+    "summary_1": "<span>{{2.3}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-3.1}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Russia",
+    "summary_1": "<span>{{38}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{4.7}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-5.3}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Senegal",
+    "summary_1": "<span>{{0.16}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.12}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Serbia",
+    "summary_1": "<span>{{4.4}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.35}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Slovakia",
+    "summary_1": "<span>{{0.49}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.31}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Slovenia",
+    "summary_1": "<span>{{1.1}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.4}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "South Africa",
+    "summary_1": "<span>{{44}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{4.6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{6}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "South Korea",
+    "summary_1": "<span>{{40}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{2.1}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{13}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Spain",
+    "summary_1": "<span>{{2.9}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-8.2}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Sri Lanka",
+    "summary_1": "<span>{{0.9}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Sudan",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Sweden",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.14}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Syria",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Taiwan",
+    "summary_1": "<span>{{19}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{3.3}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Tajikistan",
+    "summary_1": "<span>{{0.4}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.3}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Tanzania",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.8}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Thailand",
+    "summary_1": "<span>{{6.1}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.36}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Türkiye",
+    "summary_1": "<span>{{20}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{5}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{5.6}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Ukraine",
+    "summary_1": "<span>{{11}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-2.1}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "United Kingdom",
+    "summary_1": "<span>{{2.2}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-19}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "United States",
+    "summary_1": "<span>{{200}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.8}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-101}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Uzbekistan",
+    "summary_1": "<span>{{2.5}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{-0.09}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#3F6950"
+  },
+  {
+    "Country": "Venezuela",
+    "summary_1": "<span>{{0}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#A8A8A8"
+  },
+  {
+    "Country": "Vietnam",
+    "summary_1": "<span>{{27}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{7.9}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{14}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Zambia",
+    "summary_1": "<span>{{0.33}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0.3}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.3}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  },
+  {
+    "Country": "Zimbabwe",
+    "summary_1": "<span>{{1.3}} GW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{7.1}} GW</span><br>coal power under development",
+    "summary_2_color": "#f27d16",
+    "summary_3": "<span>+{{0.38}} GW</span><br>operating coal power from 2015",
+    "summary_3_color": "#761200"
+  }
+]
