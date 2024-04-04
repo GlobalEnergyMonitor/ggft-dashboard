@@ -1,6 +1,6 @@
 {
   "title": "Explore data in the Global Coal Plant Tracker",
-  "footer": "All data comes from GEM's [Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/), last updated in January 2024. Units on this page in gigawatts (GW).",
+  "footer": "All data comes from GEM's [Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/), last updated in January 2024. Units on this page are in gigawatts (GW).",
   "dropdown_label": "Select a country or region: ",
   "no_data": "No data available for {{selected}}",
   "dropdown": [
