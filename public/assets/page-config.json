@@ -9,7 +9,7 @@
     "input_filter": "Country",
     "input_default": "Global",
     "overall_summary": true,
-    "ticker_text_font-size": "2rem",
+    "ticker_text_font-size": "1.75rem",
     "ticker_data": "data_ticker_for_flourish_NEW",
     "tickers": [{
         "id": "summary_1",

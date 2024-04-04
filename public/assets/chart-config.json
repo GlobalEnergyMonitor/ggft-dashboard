@@ -1,7 +1,7 @@
 {
     "17172380": {
-        "title": "How has coal capacity changed?",
-        "subtitle": "Total operating coal-fired power capacity by year since 2000",
+        "title": "How has coal capacity changed over time?",
+        "subtitle": "Total operating coal-fired power capacity, by year since 2000",
         "x_axis": "Year",
         "values": [
             "Capacity"
@@ -13,7 +13,7 @@
     },
     "17172823": {
         "title": "How much coal capacity has been added and retired?",
-        "subtitle": "Operating coal-fired power capacity added and retired each year since 2000",
+        "subtitle": "Operating coal-fired power capacity added and retired, each year since 2000",
         "x_axis": "Year",
         "values": [
                 "Net change", "Added", "Retired"
@@ -25,7 +25,7 @@
     },
     "17173772": {
         "title": "How does coal capacity break down by status?",
-        "subtitle": "Coal-fired power capacity by status each year since 2015",
+        "subtitle": "Coal-fired power capacity by status, each year since 2015",
         "x_axis": "Year",
         "values": [
             "Retired",	"Operating", "Mothballed",
