@@ -6,19 +6,19 @@
         "values": [
             "Capacity"
         ],
-        "dataset": "gcpt_jan_2024_cumulative_with_country_groupings_for_flourish_NEW",
+        "dataset": "gcpt_jan_2024_cumulative",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
     "17172823": {
         "title": "How much coal capacity has been added and retired?",
-        "subtitle": "Operating coal-fired power capacity added and retired, each year since 2000",
+        "subtitle": "Change in operating coal-fired power capacity, each year since 2000",
         "x_axis": "Year",
         "values": [
                 "Net change", "Added", "Retired"
         ],
-        "dataset": "gcpt_jan_2024_added_retired_net_change_with_country_groupings_for_flourish",
+        "dataset": "gcpt_jan_2024_added_retired_net_change",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
@@ -32,7 +32,7 @@
             "Construction",	"Permitted", "Pre-permit",
             	"Announced", "Shelved", "Cancelled"
         ],
-        "dataset": "gcpt_jan_2024_status_for_flourish",
+        "dataset": "gcpt_jan_2024_status",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
@@ -44,7 +44,7 @@
         "values": [
             "Ultra-supercritical",	"Supercritical",	"Subcritical",	"CFB",	"IGCC",	"Unknown"
         ],
-        "dataset": "gcpt_jan_2024_plant_age_type_with_country_groupings_for_flourish",
+        "dataset": "gcpt_jan_2024_plant_age_type",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"

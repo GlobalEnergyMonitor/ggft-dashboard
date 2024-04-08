@@ -6,27 +6,27 @@
   "dropdown": [
       {
         "Country": "Global",
-        "overall_summary": "**Global** operating coal power capacity increased 2% in 2023."
+        "overall_summary": "Global operating coal power capacity increased 2% in 2023 and 11% since 2015."
       },
       {
         "Country": "EU27",
-        "overall_summary": "**EU27** summary sentence here"
+        "overall_summary": "Operating coal power capacity in the 27 member states of the European Union (EU27) has fallen 28% since 2015.<br>Only a single coal-fired power station, in Poland, remains in development."
       },
       {
         "Country": "G7",
-        "overall_summary":  "The Group of Seven major industrial countries (**G7**) accounts for 15% of the world’s operating coal capacity, down from 23% in 2015."
+        "overall_summary":  "The Group of Seven major industrial countries (G7) accounts for 15% of the world’s operating coal capacity, down from 23% in 2015.<br>The G7 no longer has any coal in construction, but is still home to one proposal in Japan and two in the United States."
       },
       {
         "Country": "G20",
-        "overall_summary": "The Group of Twenty (**G20**) is home to 92% of the world’s operating coal capacity and 88% of coal capacity in pre-construction stages."
+        "overall_summary": "The Group of Twenty (G20) is home to 92% of the world’s operating coal capacity and 88% of coal capacity in pre-construction stages."
       },
       {
         "Country": "OECD",
-        "overall_summary": "**OECD** summary sentence here"
+        "overall_summary": "Operating coal power capacity in countries part of the Organisation for Economic Co-operation and Development (OECD) has fallen 23% since 2015.<br>Only four countries in the OECD, Australia, Japan, Türkiye, and the United States, are still considering coal projects."
       },
       {
         "Country": "Albania",
-        "overall_summary": "**Albania** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Albania has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Argentina",
@@ -38,7 +38,7 @@
       },
       {
         "Country": "Austria",
-        "overall_summary": "**Austria** has retired all its coal plants."
+        "overall_summary": "Austria has retired all its coal plants."
       },
       {
         "Country": "Bangladesh",
@@ -46,11 +46,11 @@
       },
       {
         "Country": "Belarus",
-        "overall_summary": "**Belarus** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Belarus has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Belgium",
-        "overall_summary": "**Belgium** has retired all its operating coal plants."
+        "overall_summary": "Belgium has retired all its operating coal plants."
       },
       {
         "Country": "Bosnia and Herzegovina",
@@ -78,15 +78,15 @@
       },
       {
         "Country": "Canada",
-        "overall_summary": "**Canada** was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "Canada was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "Chile",
-        "overall_summary": "**Chile** was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "Chile was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "China",
-        "overall_summary": "**China** ranks first in terms of operating coal power capacity and was one of 10 countries that increased its operating capacity in 2023. It also has 70% of the world's coal capacity under consideration."
+        "overall_summary": "China ranks first in terms of operating coal power capacity and was one of 10 countries that increased its operating capacity in 2023.<br>It also has 70% of the world's coal capacity under consideration."
       },
       {
         "Country": "Colombia",
@@ -106,7 +106,7 @@
       },
       {
         "Country": "DR Congo",
-        "overall_summary": "**DR Congo** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "DR Congo has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Denmark",
@@ -114,7 +114,7 @@
       },
       {
         "Country": "Djibouti",
-        "overall_summary": "**Djibouti** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Djibouti has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Dominican Republic",
@@ -122,11 +122,11 @@
       },
       {
         "Country": "Egypt",
-        "overall_summary": "**Egypt** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Egypt has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "El Salvador",
-        "overall_summary": "**El Salvador** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "El Salvador has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Eswatini",
@@ -134,11 +134,11 @@
       },
       {
         "Country": "Ethiopia",
-        "overall_summary": "**Ethiopia** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Ethiopia has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Finland",
-        "overall_summary": "**Finland** was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "Finland was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "France",
@@ -146,19 +146,19 @@
       },
       {
         "Country": "Georgia",
-        "overall_summary": "**Georgia** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Georgia has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Germany",
-        "overall_summary": "**Germany** ranks seventh in terms of operating coal power capacity."
+        "overall_summary": "Germany ranks seventh in terms of operating coal power capacity."
       },
       {
         "Country": "Ghana",
-        "overall_summary": "**Ghana** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Ghana has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Greece",
-        "overall_summary": "**Greece** was one of 10 countries that increased its operating coal power capacity in 2023."
+        "overall_summary": "Greece was one of 10 countries that increased its operating coal power capacity in 2023."
       },
       {
         "Country": "Guadeloupe",
@@ -170,7 +170,7 @@
       },
       {
         "Country": "Guinea",
-        "overall_summary": "**Guinea** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Guinea has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Honduras",
@@ -186,11 +186,11 @@
       },
       {
         "Country": "India",
-        "overall_summary": "**India** ranks second in terms of operating coal power capacity. It has 12% of the world's coal capacity under consideration and was one of 10 countries that increased its operating capacity in 2023."
+        "overall_summary": "India ranks second in terms of operating coal power capacity.<br>It has 12% of the world's coal capacity under consideration and was one of 10 countries that increased its operating capacity in 2023."
       },
       {
         "Country": "Indonesia",
-        "overall_summary": "**Indonesia** ranks fifth in terms of operating coal power capacity. It was one of 10 countries that increased its operating capacity in 2023."
+        "overall_summary": "Indonesia ranks fifth in terms of operating coal power capacity.<br>It was one of 10 countries that increased its operating capacity in 2023."
       },
       {
         "Country": "Iran",
@@ -206,15 +206,15 @@
       },
       {
         "Country": "Italy",
-        "overall_summary": "**Italy** was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "Italy was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "Jamaica",
-        "overall_summary": "**Jamaica** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Jamaica has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Japan",
-        "overall_summary": "**Japan** ranks fourth in terms of operating coal power capacity. It was one of 10 countries that increased its operating capacity in 2023."
+        "overall_summary": "Japan ranks fourth in terms of operating coal power capacity.<br>It was one of 10 countries that increased its operating capacity in 2023."
       },
       {
         "Country": "Kazakhstan",
@@ -238,7 +238,7 @@
       },
       {
         "Country": "Latvia",
-        "overall_summary": "**Latvia** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Latvia has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Madagascar",
@@ -262,7 +262,7 @@
       },
       {
         "Country": "Moldova",
-        "overall_summary": "**Moldova** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Moldova has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Mongolia",
@@ -314,11 +314,11 @@
       },
       {
         "Country": "Oman",
-        "overall_summary": "**Oman** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Oman has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Pakistan",
-        "overall_summary": "**Pakistan** was one of 10 countries that increased its operating coal power capacity in 2023."
+        "overall_summary": "Pakistan was one of 10 countries that increased its operating coal power capacity in 2023."
       },
       {
         "Country": "Panama",
@@ -326,11 +326,11 @@
       },
       {
         "Country": "Papua New Guinea",
-        "overall_summary": "**Papua New Guinea** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Papua New Guinea has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Peru",
-        "overall_summary": "**Peru** has retired all its coal plants."
+        "overall_summary": "Peru has retired all its coal plants."
       },
       {
         "Country": "Philippines",
@@ -338,19 +338,19 @@
       },
       {
         "Country": "Poland",
-        "overall_summary": "**Poland** ranks tenth in terms of operating coal power capacity. It was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "Poland ranks tenth in terms of operating coal power capacity.<br>It was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "Portugal",
-        "overall_summary": "**Portugal** has retired all its coal plants."
+        "overall_summary": "Portugal has retired all its coal plants."
       },
       {
         "Country": "Romania",
-        "overall_summary": "**Romania** was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "Romania was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "Russia",
-        "overall_summary": "**Russia** ranks ninth in terms of operating coal power capacity. It was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "Russia ranks ninth in terms of operating coal power capacity. It was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "Senegal",
@@ -362,7 +362,7 @@
       },
       {
         "Country": "Slovakia",
-        "overall_summary": "**Slovakia** was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "Slovakia was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "Slovenia",
@@ -370,11 +370,11 @@
       },
       {
         "Country": "South Africa",
-        "overall_summary": "**South Africa** ranks sixth in terms of operating coal power capacity."
+        "overall_summary": "South Africa ranks sixth in terms of operating coal power capacity."
       },
       {
         "Country": "South Korea",
-        "overall_summary": "**South Korea** ranks eighth in terms of operating coal power capacity. It was one of 10 countries that increased its operating capacity in 2023."
+        "overall_summary": "South Korea ranks eighth in terms of operating coal power capacity.<br>It was one of 10 countries that increased its operating capacity in 2023."
       },
       {
         "Country": "Spain",
@@ -386,15 +386,15 @@
       },
       {
         "Country": "Sudan",
-        "overall_summary": "**Sudan** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Sudan has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Sweden",
-        "overall_summary": "**Sweden** has retired all its coal plants."
+        "overall_summary": "Sweden has retired all its coal plants."
       },
       {
         "Country": "Syria",
-        "overall_summary": "**Syria** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Syria has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Taiwan",
@@ -422,15 +422,15 @@
       },
       {
         "Country": "United Arab Emirates",
-        "overall_summary": "The **United Arab Emirates** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "The United Arab Emirates has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "United Kingdom",
-        "overall_summary": "The **United Kingdom** was one of 10 countries that decreased its operating coal power capacity in 2023."
+        "overall_summary": "The United Kingdom was one of 10 countries that decreased its operating coal power capacity in 2023."
       },
       {
         "Country": "United States",
-        "overall_summary": "The **United States** ranks third in terms of operating coal power capacity.  It was one of 10 countries that decreased its operating capacity in 2023."
+        "overall_summary": "The United States ranks third in terms of operating coal power capacity.<br>It was one of 10 countries that decreased its operating capacity in 2023."
       },
       {
         "Country": "Uzbekistan",
@@ -438,7 +438,7 @@
       },
       {
         "Country": "Venezuela",
-        "overall_summary": "**Venezuela** has no operating coal plants. It also has no coal power under development."
+        "overall_summary": "Venezuela has no operating coal plants. It also has no coal power under development."
       },
       {
         "Country": "Vietnam",
@@ -450,7 +450,7 @@
       },
       {
         "Country": "Zimbabwe",
-        "overall_summary": "**Zimbabwe** was one of 10 countries that increased its operating coal power capacity in 2023."
+        "overall_summary": "Zimbabwe was one of 10 countries that increased its operating coal power capacity in 2023."
       }    
   ]  
 }
