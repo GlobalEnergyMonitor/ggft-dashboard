@@ -821,6 +821,56 @@
   },
   {
     "Country": "Cambodia",
+    "Age group": "50+ years",
+    "Ultra-supercritical": 0,
+    "Supercritical": 0,
+    "Subcritical": 0,
+    "CFB": 0,
+    "IGCC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cambodia",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": 0,
+    "Supercritical": 0,
+    "Subcritical": 0,
+    "CFB": 0,
+    "IGCC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cambodia",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": 0,
+    "Supercritical": 0,
+    "Subcritical": 0,
+    "CFB": 0,
+    "IGCC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cambodia",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": 0,
+    "Supercritical": 0,
+    "Subcritical": 0,
+    "CFB": 0,
+    "IGCC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cambodia",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": 0,
+    "Supercritical": 0,
+    "Subcritical": 0,
+    "CFB": 0,
+    "IGCC": 0,
+    "Unknown": 0
+  },
+  {
+    "Country": "Cambodia",
     "Age group": "0-9 years",
     "Ultra-supercritical": 0.15,
     "Supercritical": 0.7,
