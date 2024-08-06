@@ -2,7 +2,9 @@
 
 This repository hosts the code for the [Global Coal Plant Tracker dashboard](https://globalenergymonitor.org/projects/global-coal-plant-tracker/dashboard/), built using the [Flourish API dashboard template setup](https://github.com/GlobalEnergyMonitor/Flourish-API-dashboard-template). For the full instructions on how the Flourish API framework, you can go through the comprehensive README that includes all the different steps on how to set and configure a new dashboard in the template Github repo. This repo will focus on how to update and make changes to the coal plant tracker dashboard, which is updated with new data releases every six months. 
 
-This README is split up into three different sections. The first section explains how each of the dashboard components are set up, with a snapshot of the data structure that make up each of the elements. The following two sections reflect the two different steps in the process of updating the dashboard. The first step takes the data provided by the GCPT project manager, makes some minor structural adjustments and saves it out it in the exact `.json` file format required for the dashboard. The second step focuses on making the changes to the dashboard itself, and making it live on the front end, once you have the new data ready. 
+There are two main sections to this repo. The first one is the code used to format the data into the structure needed for the dashboard, included in the `data_wrangling` folder, and the second section houses the code for the dashboard itself, mostly in the `public` folder and its subfolders.   
+
+This README itself is split up into four different sections. The first section explains how each of the dashboard components are set up, with a snapshot of the data structure that make up each of the elements. Then there is a short guide to updating the dashboard. The third section provides detail on how each of the different elements making the dashboard up are structured and created, while the last section provides a more detailed step-by-step guide to updating the dashboard. 
 
 ## How the GCPT dashboard is set up
 
@@ -14,7 +16,7 @@ The dashboard has been created using the Flourish API template, and is made up o
 It therefore has six different elements, each with its own data file and structure. Below we will go through the key details for each one, including the data structure each of these elements needs - however it is worth a very brief introduction into how the dashboard set up works and is updated, with the full details in the [Flourish API dashboard template setup README](https://github.com/GlobalEnergyMonitor/Flourish-API-dashboard-template). 
 
 ### Overview / How it works
-There are a number of config files which control what the dashboard is showing. These can be found in `public/assets/`
+There are a number of config files which control what the dashboard is showing. These can be found in `public/assets/`:
 * `page-config` describes what is in the whole page. Here you can specify the graphs in the page and the order they show, the tickers, the filtering type.
 * `chart-config` contains the details for each chart - there are a number of config options needed, including a reference to the dataset and which keys in the data are being used where in the chart. There are optional additional config opotions, such as if the chart responds to filtering
 * `text-config` this contains the text that appears outside the flourish graphics in the page - the title, any summaries etc.
@@ -33,7 +35,7 @@ There are a number of config files which control what the dashboard is showing. 
 To make changes to the dashboard, you need to:
 * change the data json files
 * amend the relevant info in the config files (chart titles and subtitles or new filenames for your data if you are changing them)  
-* change the summary text array in the `text-config.json` file - the order the countries appear in this file sets the order the countries appear in the dropdown
+* change the summary text in the `text-config.json` file - the order the countries appear in this file sets the order the countries appear in the dropdown
 * make any text changes in other relevant config files (page title, dropdown text, footnote)  
 
 *If adding a new datapoint, (eg a new year's data), you may also need to make some minor changes to the original Flourish links (such as changing the axis labels for example).*
