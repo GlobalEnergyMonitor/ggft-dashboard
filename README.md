@@ -48,7 +48,8 @@ Any new data should be pushed to `public/assets/data` and be in `json` format. E
 * `gcpt_h1_2024_status_over_time.json`  
 * `gcpt_h1_2024_age_type.json`
 
-If changing the filename of the data file, you will need to amend the value of the `dataset` variable in the `chart-config.json` document. If you make any changes to your data column names, you will need to change the relevant values in the chart config file, but if you replicate the 
+If changing the filename of the data file, you will need to amend the value of the `dataset` variable in the `chart-config.json` document. If you make any changes to your data column names, you will need to change the relevant values in the chart config file, but if you replicate the existing structure, this should not cause any issues. 
+
 
 **Summary text**
 To update the summary text, you must do so in the `text-config.json` file. The order the countries appear here are the order they appear in the dropdown. Remember, a country must be included here to show up in the dropdown. Even if it is included in all the data files, if it is not listed in the text config file, it will not show up. 
@@ -161,7 +162,6 @@ The colours for the text, as well as the number of decimal places, are set in th
   ....
 ]
 ```
-Within the `chart-config.json` file, 
 
 ### Element 3: Cumulative capacity viz
 
