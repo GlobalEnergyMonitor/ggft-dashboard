@@ -1,23 +1,6 @@
-# TITLE
+# Data wrangling for GCPT dashboard
 
-This repository hosts code that creates the data visualisations for XXXXX report on that is scheduled for publication in XXXXX.
+This folder includes an R project with code and instructions that does the final formatting of spreadsheet data provided by the GCPT project manager and converts it to json files needed for the dashboard. 
 
-<ins>Links:</ins>
+Instructions for the data wrangling are in the `run-all` file, whereas for updating and making changes to the repo are in the main README of this repo. 
 
-[Google Drive](LINK)
-
-[Final data viz](LINK)
-
-[Asana](LINK)
-
-[Tracker](LINK)
-
-
-## What's this all about?
-
-The report includes XXXX
-
-## How to run
-
-
-**Note:**
