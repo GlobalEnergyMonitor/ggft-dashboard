@@ -314,6 +314,8 @@ https://app.flourish.studio/visualisation/17223802/edit
 
 With every data update, the GCPT project manger provides five spreadsheets, one for each of the elements that need updating as detailed above. The text summary file also needs to be updated with each dashboard update, but for the time being (as of July 2024), that is done manually and is not exported as part of the GCPT data update but created separately. 
 
+[This is the link to the 2024 version of these spreadsheets as produced by the GCPT PM](https://drive.google.com/drive/folders/1UJ1-Fxvn2sjqYxK9sKEwuWDB_7rnRV43), they are also included in the `example_input_datasets` in the root folder of the repo here for reference.
+
 The data wrangling to get the files into the exact specifications needed to upload to our dashboard can be done via the R scripts in the `data_wrangling` subfolder of this repo. 
 
 The `run-all.R` file includes details of all the variables and scripts needed to run in order to do that, so following the steps and instructions there should be sufficient to get the data into the correct format before uploading to the dashboard. Basically the data is loaded into R in the scripts in the `R` subfolder, and formatted and exported in the scripts that are located in the `analysis` folder. 
