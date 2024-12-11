@@ -1,7 +1,7 @@
 {
   "title": "Explore data in the Global Coal Plant Tracker",
   "footer": "All data comes from GEM's [Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/), last updated in July 2024. Units on this page are in gigawatts (GW). Under development includes all capacity with status announced, pre-permit, permitted, and construction.",
-  "dropdown_label": "Select a country or region: ",
+  "dropdown_label": "Select a Country/Area or region: ",
   "no_data": "No data available for {{selected}}",
   "dropdown": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "Country": "BRICS",
-      "overall_summary": "Operating coal power capacity in BRICS countries has increased 23% since 2015."
+      "overall_summary": "Operating coal power capacity in BRICS countries/areas has increased 23% since 2015."
     },
     {
       "Country": "EU27",
@@ -18,7 +18,7 @@
     },
     {
       "Country": "G7",
-      "overall_summary": "The Group of Seven major industrial countries (G7) accounts for 14% of the world’s operating coal capacity, down from 23% in 2015.<br>The G7 no longer has any coal in construction, but is still home to one proposal in Japan and two in the United States."
+      "overall_summary": "The Group of Seven major industrial countries/areas (G7) accounts for 14% of the world’s operating coal capacity, down from 23% in 2015.<br>The G7 no longer has any coal in construction, but is still home to one proposal in Japan and two in the United States."
     },
     {
       "Country": "G20",
@@ -26,7 +26,7 @@
     },
     {
       "Country": "OECD",
-      "overall_summary": "Operating coal power capacity in countries part of the Organisation for Economic Co-operation and Development (OECD) has fallen 26% since 2015.<br>Only four countries in the OECD, Australia, Japan, Türkiye, and the United States, are still considering coal projects."
+      "overall_summary": "Operating coal power capacity in countries/areas part of the Organisation for Economic Co-operation and Development (OECD) has fallen 26% since 2015.<br>Only four countries/areas in the OECD, Australia, Japan, Türkiye, and the United States, are still considering coal projects."
     },
     {
       "Country": "Albania",
