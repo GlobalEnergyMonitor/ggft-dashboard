@@ -10,7 +10,7 @@
     "input_default": "Global",
     "overall_summary": true,
     "ticker_text_font-size": "1.75rem",
-    "ticker_data": "gcpt_h1_2024_data_ticker",
+    "ticker_data": "gcpt_h2_2024_data_ticker",
     "tickers": [{
         "id": "summary_1",
         "decimal_places": 2,
