@@ -28,7 +28,7 @@
         "subtitle": "Coal-fired power capacity by status, each year since 2015",
         "x_axis": "Year",
         "values": [
-            "Retired",	"Operating", "Mothballed",
+            "Retired",	"Operating",
             "Construction",	"Permitted", "Pre-permit",
             	"Announced", "Shelved", "Cancelled"
         ],
