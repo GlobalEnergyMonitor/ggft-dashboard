@@ -6,27 +6,27 @@
   "dropdown": [
     {
       "Country": "Global",
-      "overall_summary": "Global operating coal power capacity has increased 11% since 2015."
+      "overall_summary": "Global operating coal power capacity has increased 13% since 2015."
     },
     {
       "Country": "BRICS",
-      "overall_summary": "Operating coal power capacity in BRICS countries/areas has increased 23% since 2015."
+      "overall_summary": "Operating coal power capacity in BRICS countries/areas has increased 30% since 2015."
     },
     {
       "Country": "EU27",
-      "overall_summary": "Operating coal power capacity in the 27 member states of the European Union (EU27) has fallen 34% since 2015.<br>Only a single coal-fired power station, in Poland, remains in development."
+      "overall_summary": "Operating coal power capacity in the 27 member states of the European Union (EU27) has fallen 36% since 2015.<br>Only a single coal-fired power station, in Poland, remains in development."
     },
     {
       "Country": "G7",
-      "overall_summary": "The Group of Seven major industrial countries/areas (G7) accounts for 14% of the world’s operating coal capacity, down from 23% in 2015.<br>The G7 no longer has any coal in construction, but is still home to one proposal in Japan and two in the United States."
+      "overall_summary": "The Group of Seven major industrial countries/areas (G7) accounts for 13% of the world’s operating coal capacity, down from 23% in 2015.<br>The G7 no longer has any coal in construction, but is still home to one proposal in Japan and two in the United States."
     },
     {
       "Country": "G20",
-      "overall_summary": "The Group of Twenty (G20) is home to 93% of the world’s operating coal capacity and 89% of coal capacity under consideration (in pre-construction stages)."
+      "overall_summary": "The Group of Twenty (G20) is home to 93% of the world’s operating coal capacity and 92% of coal capacity under development."
     },
     {
       "Country": "OECD",
-      "overall_summary": "Operating coal power capacity in countries/areas part of the Organisation for Economic Co-operation and Development (OECD) has fallen 26% since 2015.<br>Only four countries/areas in the OECD, Australia, Japan, Türkiye, and the United States, are still considering coal projects."
+      "overall_summary": "Operating coal power capacity in countries/areas part of the Organisation for Economic Co-operation and Development (OECD) has fallen 27% since 2015.<br>Only four countries in the OECD – Australia, Japan, Türkiye, and the United States – are still considering new coal projects."
     },
     {
       "Country": "Albania",
@@ -90,7 +90,7 @@
     },
     {
       "Country": "China",
-      "overall_summary": "China ranks first in terms of operating coal power capacity.<br>It also has two-thirds of the world's coal capacity under consideration (in pre-construction stages)."
+      "overall_summary": "China ranks first in terms of operating coal power capacity.<br>It also has 69% of the world's coal power capacity under development."
     },
     {
       "Country": "Colombia",
@@ -190,11 +190,11 @@
     },
     {
       "Country": "India",
-      "overall_summary": "India ranks second in terms of operating coal power capacity.<br>It has 18% of the world's coal capacity under consideration (in pre-construction stages)."
+      "overall_summary": "India ranks second in terms of operating coal power capacity.<br>It has 18% of the world's coal capacity under development."
     },
     {
       "Country": "Indonesia",
-      "overall_summary": "Indonesia ranks fifth in terms of operating coal power capacity."
+      "overall_summary": "Indonesia ranks fourth in terms of operating coal power capacity and third for coal power capacity under development."
     },
     {
       "Country": "Iran",
@@ -218,7 +218,7 @@
     },
     {
       "Country": "Japan",
-      "overall_summary": "Japan ranks fourth in terms of operating coal power capacity."
+      "overall_summary": "Japan ranks fifth in terms of operating coal power capacity."
     },
     {
       "Country": "Kazakhstan",
@@ -434,7 +434,7 @@
     },
     {
       "Country": "United Kingdom",
-      "overall_summary": ""
+      "overall_summary": "The United Kingdom has retired all its coal plants."
     },
     {
       "Country": "United States",
