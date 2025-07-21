@@ -6,7 +6,7 @@
         "values": [
             "Capacity"
         ],
-        "dataset": "gcpt_h2_2024_cumulative",
+        "dataset": "gcpt_h1_2025_cumulative",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
@@ -18,7 +18,7 @@
         "values": [
                 "Net change", "Added", "Retired"
         ],
-        "dataset": "gcpt_h2_2024_added_retired_net_change",
+        "dataset": "gcpt_h1_2025_added_retired_net_change",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
@@ -32,7 +32,7 @@
             "Construction",	"Permitted", "Pre-permit",
             	"Announced", "Shelved", "Cancelled"
         ],
-        "dataset": "gcpt_h2_2024_status_over_time",
+        "dataset": "gcpt_h1_2025_status_over_time",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
@@ -44,7 +44,7 @@
         "values": [
             "Ultra-supercritical",	"Supercritical",	"Subcritical",	"CFB",	"IGCC",	"Unknown"
         ],
-        "dataset": "gcpt_h2_2024_age_type",
+        "dataset": "gcpt_h1_2025_age_type",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
