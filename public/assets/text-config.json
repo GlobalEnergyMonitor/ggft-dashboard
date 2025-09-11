@@ -1,464 +1,64 @@
 {
-  "title": "Explore data in the Global Coal Plant Tracker",
-  "footer": "All data comes from GEM's [Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/), last updated in July 2025. Units on this page are in gigawatts (GW). Operating includes mothballed capacity. Under development includes all capacity with status announced, pre-permit, permitted, and construction.",
+  "title": "Explore data in the Global Gas Finance Plant Tracker",
+  "footer": "All data comes from GEM's [Global Gas Plant Finance Tracker](https://globalenergymonitor.org/projects/global-gas-plant-finance-tracker/), last updated in September 2025. Units on this page are in gigawatts (GW).",
   "dropdown_label": "Select a Country/Area or Region: ",
   "no_data": "No data available for {{selected}}",
   "dropdown": [
     {
       "Country": "Global",
-      "overall_summary": "Global operating coal power capacity has increased 14% since 2015."
-    },
-    {
-      "Country": "BRICS",
-      "overall_summary": "Operating coal power capacity in BRICS countries/areas has increased 32% since 2015."
-    },
-    {
-      "Country": "EU27",
-      "overall_summary": "Operating coal power capacity in the 27 member states of the European Union (EU27) has fallen 38% since 2015.<br>Only a single coal-fired power station, in Poland, remains in development."
-    },
-    {
-      "Country": "G7",
-      "overall_summary": "Operating coal power capacity in the Group of Seven major industrial countries (G7) has fallen 35% since 2015.<br>The G7 no longer has any coal plants under construction, but is home to one proposal in Japan and three in the U.S."
-    },
-    {
-      "Country": "G20",
-      "overall_summary": "The Group of Twenty (G20) is home to 92% of the world’s operating coal power capacity and 92% of coal power capacity under development."
-    },
-    {
-      "Country": "OECD",
-      "overall_summary": "Operating coal power capacity in countries part of the Organisation for Economic Co-operation and Development (OECD) has fallen 28% since 2015.<br>Only four countries in the OECD – Australia, Japan, Türkiye, and the United States – are still considering new coal projects."
-    },
-    {
-      "Country": "Albania",
-      "overall_summary": "Albania has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Argentina",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Australia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Austria",
-      "overall_summary": "Austria has retired all its coal plants."
-    },
+      "overall_summary": "Placeholder until update with ggpft data"
+    },    
     {
       "Country": "Bangladesh",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Belarus",
-      "overall_summary": "Belarus has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Belgium",
-      "overall_summary": "Belgium has retired all its operating coal plants."
-    },
-    {
-      "Country": "Bosnia and Herzegovina",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Botswana",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Brazil",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Brunei",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Bulgaria",
-      "overall_summary": ""
+      "overall_summary": "Project finance for proposed LNG import terminals remains opaque, as Bangladesh’s interim government scrapped deals with prospective LNG developers. In the power sector, prospective gas plant projects are in varying stages of development and financing."
     },
     {
       "Country": "Cambodia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Canada",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Chile",
-      "overall_summary": ""
-    },
-    {
-      "Country": "China",
-      "overall_summary": "China ranks first in terms of operating coal power capacity.<br>It also has 70% of the world's coal power capacity under development."
-    },
-    {
-      "Country": "Colombia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Croatia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Czech Republic",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Côte d'Ivoire",
-      "overall_summary": ""
-    },
-    {
-      "Country": "DR Congo",
-      "overall_summary": "DR Congo has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Denmark",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Djibouti",
-      "overall_summary": "Djibouti has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Dominican Republic",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Egypt",
-      "overall_summary": "Egypt has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "El Salvador",
-      "overall_summary": "El Salvador has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Eswatini",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Ethiopia",
-      "overall_summary": "Ethiopia has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Finland",
-      "overall_summary": ""
-    },
-    {
-      "Country": "France",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Georgia",
-      "overall_summary": "Georgia has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Germany",
-      "overall_summary": "Germany ranks ninth in terms of operating coal power capacity."
-    },
-    {
-      "Country": "Ghana",
-      "overall_summary": "Ghana has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Greece",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Guadeloupe",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Guatemala",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Guinea",
-      "overall_summary": "Guinea has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Honduras",
-      "overall_summary": "Honduras has no operating coal plants. It also has no coal power under development"
-    },
-    {
-      "Country": "Hong Kong",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Hungary",
-      "overall_summary": ""
-    },
-    {
-      "Country": "India",
-      "overall_summary": "India ranks second in terms of operating coal power capacity.<br>It has 17% of the world's coal capacity under development."
+      "overall_summary": "Cambodia’s two potential LNG import projects still appear to be seeking financing, as does its developing power plant."
     },
     {
       "Country": "Indonesia",
-      "overall_summary": "Indonesia ranks fourth in terms of operating coal power capacity and third for coal power capacity under development."
-    },
-    {
-      "Country": "Iran",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Ireland",
-      "overall_summary": "Ireland stopped burning coal for power in 2025."
-    },
-    {
-      "Country": "Israel",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Italy",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Jamaica",
-      "overall_summary": "Jamaica has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "Operating coal power capacity in countries part of the Organisation for Economic Co-operation and Development (OECD) has fallen 28% since 2015.<br>Only four countries in the OECD – Australia, Japan, Türkiye, and the United States – are still considering new coal projects."
     },
     {
       "Country": "Japan",
-      "overall_summary": "Japan ranks fifth in terms of operating coal power capacity."
-    },
-    {
-      "Country": "Kazakhstan",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Kenya",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Kosovo",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Kyrgyzstan",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Laos",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Latvia",
-      "overall_summary": "Latvia has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Madagascar",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Malawi",
-      "overall_summary": ""
+      "overall_summary": "Project finance for an expansion of a planned LNG import terminal remains opaque, but domestic parent companies and banks are set to play a role financing new gas power units."
     },
     {
       "Country": "Malaysia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Mauritius",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Mexico",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Moldova",
-      "overall_summary": "Moldova has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Mongolia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Montenegro",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Morocco",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Mozambique",
-      "overall_summary": ""
+      "overall_summary": "Potential project financing has been discussed for a proposed LNG export terminal in construction, while financing for two gas power plant units–one potentially shelved–remains to be determined."
     },
     {
       "Country": "Myanmar",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Namibia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Netherlands",
-      "overall_summary": ""
-    },
-    {
-      "Country": "New Caledonia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "New Zealand",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Niger",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Nigeria",
-      "overall_summary": ""
-    },
-    {
-      "Country": "North Korea",
-      "overall_summary": ""
-    },
-    {
-      "Country": "North Macedonia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Oman",
-      "overall_summary": "Oman has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "Political instability appears to have delayed both LNG import and gas power projects,  and financing commitments have yet to materialize."
     },
     {
       "Country": "Pakistan",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Panama",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Papua New Guinea",
-      "overall_summary": "Papua New Guinea has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Peru",
-      "overall_summary": "Peru has retired all its coal plants."
+      "overall_summary": "Several LNG import terminals have been shelved; the remaining terminals are proposed  with no identifiable project financing as yet. No known gas power plant projects are in development."
     },
     {
       "Country": "Philippines",
-      "overall_summary": ""
+      "overall_summary": "Several import terminals are proposed or are in construction, but project financing details remain thin. In the gas power sector, upcoming projects are poised to enter operation by 2030, with equity from Philippines and American parent companies making up the bulk of known project financing."
     },
     {
-      "Country": "Poland",
-      "overall_summary": "Poland ranks tenth in terms of operating coal power capacity."
-    },
-    {
-      "Country": "Portugal",
-      "overall_summary": "Portugal has retired all its coal plants."
-    },
-    {
-      "Country": "Romania",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Russia",
-      "overall_summary": "Russia ranks eighth in terms of operating coal power capacity."
-    },
-    {
-      "Country": "Senegal",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Serbia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Slovakia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Slovenia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "South Africa",
-      "overall_summary": "South Africa ranks sixth in terms of operating coal power capacity."
+      "Country": "Singapore",
+      "overall_summary": "While project finance details for Singapore’s proposed LNG terminal remain obscure, gas power plants of varying statuses are seeing equity financing from parent companies and project financing from commercial banks from a variety of countries in the region. "
     },
     {
       "Country": "South Korea",
-      "overall_summary": "South Korea ranks seventh in terms of operating coal power capacity."
-    },
-    {
-      "Country": "Spain",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Sri Lanka",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Sudan",
-      "overall_summary": "Sudan has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "Sweden",
-      "overall_summary": "Sweden has retired all its coal plants."
-    },
-    {
-      "Country": "Syria",
-      "overall_summary": "Syria has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "South Korea’s LNG build-out is progressing, with the bulk of known project financing stemming from domestic sources. On the gas power front, most units remain in early stages, with limited project finance information available yet. "
     },
     {
       "Country": "Taiwan",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Tajikistan",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Tanzania",
-      "overall_summary": ""
+      "overall_summary": "Most of the known project finance for Taiwan’s developing LNG import terminals stems from equity investments from the state-owned oil and gas company, CPC, while for gas power projects, multiple commercial bank loans have been uncovered. "
     },
     {
       "Country": "Thailand",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Türkiye",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Ukraine",
-      "overall_summary": ""
-    },
-    {
-      "Country": "United Arab Emirates",
-      "overall_summary": "The United Arab Emirates has no operating coal plants. It also has no coal power under development."
-    },
-    {
-      "Country": "United Kingdom",
-      "overall_summary": "The United Kingdom has retired all its coal plants."
-    },
-    {
-      "Country": "United States",
-      "overall_summary": "The United States ranks third in terms of operating coal power capacity."
-    },
-    {
-      "Country": "Uzbekistan",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Venezuela",
-      "overall_summary": "Venezuela has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "Financing remains opaque for Thailand’s four developing LNG terminal units. Developing gas power units span planning and construction statuses, with a small amount of project financing discovered from a bank loan and parent company equity investments."
     },
     {
       "Country": "Vietnam",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Zambia",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Zimbabwe",
-      "overall_summary": ""
-    }  
+      "overall_summary": "While LNG project financing remains relatively obscure, developing gas power projects are finding project financing from a variety of countries and financial institutions."
+    }
   ]  
 }
