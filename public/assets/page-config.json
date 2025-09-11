@@ -7,7 +7,7 @@
     ],
     "input_type": "dropdown",
     "input_filter": "Country",
-    "input_default": "Global",
+    "input_default": "Bangladesh",
     "overall_summary": true,
     "ticker_text_font-size": "1.75rem",
     "ticker_data": "gcpt_h1_2025_data_ticker",

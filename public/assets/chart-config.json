@@ -7,7 +7,7 @@
             "Capacity"
         ],
         "dataset": "gcpt_h1_2025_cumulative",
-        "initial_state": "Global",
+        "initial_state": "Bangladesh",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -19,7 +19,7 @@
                 "Net change", "Added", "Retired"
         ],
         "dataset": "gcpt_h1_2025_added_retired_net_change",
-        "initial_state": "Global",
+        "initial_state": "Bangladesh",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -33,7 +33,7 @@
             	"Announced", "Shelved", "Cancelled"
         ],
         "dataset": "gcpt_h1_2025_status_over_time",
-        "initial_state": "Global",
+        "initial_state": "Bangladesh",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -45,7 +45,7 @@
             "Ultra-supercritical",	"Supercritical",	"Subcritical",	"CFB",	"IGCC",	"Unknown"
         ],
         "dataset": "gcpt_h1_2025_age_type",
-        "initial_state": "Global",
+        "initial_state": "Bangladesh",
         "filterable": true,
         "filter_by": "Country"
     }
