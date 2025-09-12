@@ -5,8 +5,8 @@
   "no_data": "No data available for {{selected}}",
   "dropdown": [
     {
-      "Country": "Global",
-      "overall_summary": "Placeholder until update with ggpft data"
+      "Country": "All",
+      "overall_summary": "Placeholder"
     },    
     {
       "Country": "Bangladesh",

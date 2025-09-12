@@ -1,7 +1,7 @@
 {
-    "17172380": {
-        "title": "How has coal capacity changed over time?",
-        "subtitle": "Total operating coal-fired power capacity, by year since 2000",
+    "25088546": {
+        "title": "LNG capacity in development",
+        "subtitle": "",
         "x_axis": "Year",
         "values": [
             "Capacity"
@@ -11,40 +11,14 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "17172823": {
-        "title": "How much coal capacity has been added and retired?",
-        "subtitle": "Change in operating coal-fired power capacity, each year since 2000",
+    "25088647": {
+        "title": "Gas plant capacity in development",
+        "subtitle": "",
         "x_axis": "Year",
         "values": [
-                "Net change", "Added", "Retired"
+                "Capacity"
         ],
         "dataset": "gcpt_h1_2025_added_retired_net_change",
-        "initial_state": "Bangladesh",
-        "filterable": true,
-        "filter_by": "Country"
-    },
-    "17173772": {
-        "title": "How does coal capacity break down by status?",
-        "subtitle": "Coal-fired power capacity by status, each year since 2015",
-        "x_axis": "Year",
-        "values": [
-            "Retired",	"Operating",
-            "Construction",	"Permitted", "Pre-permit",
-            	"Announced", "Shelved", "Cancelled"
-        ],
-        "dataset": "gcpt_h1_2025_status_over_time",
-        "initial_state": "Bangladesh",
-        "filterable": true,
-        "filter_by": "Country"
-    },
-    "17223802": {
-        "title": "What is the age and technology of operating coal capacity?",
-        "subtitle": "Operating coal-fired power capacity, by unit age group and technology type",
-        "x_axis": "Age group",
-        "values": [
-            "Ultra-supercritical",	"Supercritical",	"Subcritical",	"CFB",	"IGCC",	"Unknown"
-        ],
-        "dataset": "gcpt_h1_2025_age_type",
         "initial_state": "Bangladesh",
         "filterable": true,
         "filter_by": "Country"
