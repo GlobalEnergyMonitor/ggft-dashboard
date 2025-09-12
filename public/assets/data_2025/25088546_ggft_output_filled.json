@@ -1,5 +1,40 @@
 [
   {
+    "Country":"All",
+    "Start year":2025,
+    "New LNG capacity":19.3
+  },
+  {
+    "Country":"All",
+    "Start year":2026,
+    "New LNG capacity":16.9
+  },
+  {
+    "Country":"All",
+    "Start year":2027,
+    "New LNG capacity":22.3
+  },
+  {
+    "Country":"All",
+    "Start year":2028,
+    "New LNG capacity":8.15
+  },
+  {
+    "Country":"All",
+    "Start year":2029,
+    "New LNG capacity":4.2
+  },
+  {
+    "Country":"All",
+    "Start year":2030,
+    "New LNG capacity":14.5
+  },
+  {
+    "Country":"All",
+    "Start year":2031,
+    "New LNG capacity":11.6
+  },
+  {
     "Country":"Bangladesh",
     "Start year":2025,
     "New LNG capacity":"0.0"

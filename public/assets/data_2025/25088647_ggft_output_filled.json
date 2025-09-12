@@ -1,5 +1,90 @@
 [
   {
+    "Country":"All",
+    "Start year":2025,
+    "New capacity (MW)":19727.0
+  },
+  {
+    "Country":"All",
+    "Start year":2026,
+    "New capacity (MW)":15493.2
+  },
+  {
+    "Country":"All",
+    "Start year":2027,
+    "New capacity (MW)":21795.0
+  },
+  {
+    "Country":"All",
+    "Start year":2028,
+    "New capacity (MW)":22773.0
+  },
+  {
+    "Country":"All",
+    "Start year":2029,
+    "New capacity (MW)":20732.0
+  },
+  {
+    "Country":"All",
+    "Start year":2030,
+    "New capacity (MW)":25738.6
+  },
+  {
+    "Country":"All",
+    "Start year":2031,
+    "New capacity (MW)":7144.4
+  },
+  {
+    "Country":"All",
+    "Start year":2032,
+    "New capacity (MW)":3585.0
+  },
+  {
+    "Country":"All",
+    "Start year":2033,
+    "New capacity (MW)":1925.0
+  },
+  {
+    "Country":"All",
+    "Start year":2034,
+    "New capacity (MW)":5835.0
+  },
+  {
+    "Country":"All",
+    "Start year":2035,
+    "New capacity (MW)":0.0
+  },
+  {
+    "Country":"All",
+    "Start year":2036,
+    "New capacity (MW)":2210.0
+  },
+  {
+    "Country":"All",
+    "Start year":2037,
+    "New capacity (MW)":1169.4
+  },
+  {
+    "Country":"All",
+    "Start year":2038,
+    "New capacity (MW)":660.0
+  },
+  {
+    "Country":"All",
+    "Start year":2039,
+    "New capacity (MW)":0.0
+  },
+  {
+    "Country":"All",
+    "Start year":2040,
+    "New capacity (MW)":0.0
+  },
+  {
+    "Country":"All",
+    "Start year":2041,
+    "New capacity (MW)":2600.0
+  },
+  {
     "Country":"Bangladesh",
     "Start year":2025,
     "New capacity (MW)":1420.0
