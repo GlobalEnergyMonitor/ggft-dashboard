@@ -7,7 +7,7 @@
             "New LNG capacity"
         ],
         "dataset": "25088546_ggft_output_filled",
-        "initial_state": "Bangladesh",
+        "initial_state": "All",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -19,8 +19,26 @@
                 "New capacity (MW)"
         ],
         "dataset": "25088647_ggft_output_filled",
-        "initial_state": "Bangladesh",
+        "initial_state": "All",
         "filterable": true,
+        "filter_by": "Country"
+    },
+    "25071902": {
+        "title": "Known LNG project finance",
+        "subtitle": "",
+        "table": "Start year",
+        "dataset": "25071902_ggft_output_filled",
+        "initial_state": "All",
+        "filterable": false,
+        "filter_by": "Country"
+    },
+    "25071855": {
+        "title": "Known gas plant project finance",
+        "subtitle": "",
+        "table": "Start year",
+        "dataset": "25071855_ggft_output_filled",
+        "initial_state": "All",
+        "filterable": false,
         "filter_by": "Country"
     }
 }
