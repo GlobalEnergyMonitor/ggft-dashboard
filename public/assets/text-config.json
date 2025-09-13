@@ -1,7 +1,7 @@
 {
   "title": "Explore data in the Global Gas Finance Tracker",
   "footer": "All data comes from GEM's [Global Gas Finance Tracker](https://globalenergymonitor.org/projects/global-gas-finance-tracker/), last updated in September 2025. The Gas Finance Tracker is a dataset of financial transactions to in-development LNG terminals and gas-fired power plants. The tracker includes information on project financiers, transaction amounts, financial institutions, financing status, dates of financial close, and more. The initial data release covers 13 East and Southeast Asian countries: Bangladesh, Cambodia, Indonesia, Japan, Malaysia, Myanmar, Pakistan, the Philippines, Singapore, South Korea, Taiwan, Thailand, and Vietnam.",
-  "dropdown_label": "Select a Country/Area or Region: ",
+  "dropdown_label": "Select a Country: ",
   "no_data": "No data available for {{selected}}",
   "dropdown": [
     {
