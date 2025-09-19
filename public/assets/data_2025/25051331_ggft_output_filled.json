@@ -1,0 +1,282 @@
+[
+  {
+    "Country":"All",
+    "Status":"Proposed",
+    "Capacity (mtpa)":117
+  },
+  {
+    "Country":"All",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"All",
+    "Status":"Construction",
+    "Capacity (mtpa)":59
+  },
+  {
+    "Country":"All",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":30
+  },
+  {
+    "Country":"Bangladesh",
+    "Status":"Proposed",
+    "Capacity (mtpa)":11.25
+  },
+  {
+    "Country":"Bangladesh",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Bangladesh",
+    "Status":"Construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Bangladesh",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Cambodia",
+    "Status":"Proposed",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Cambodia",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Cambodia",
+    "Status":"Construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Cambodia",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":3.55
+  },
+  {
+    "Country":"Indonesia",
+    "Status":"Proposed",
+    "Capacity (mtpa)":25.6
+  },
+  {
+    "Country":"Indonesia",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Indonesia",
+    "Status":"Construction",
+    "Capacity (mtpa)":0.3
+  },
+  {
+    "Country":"Indonesia",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":4
+  },
+  {
+    "Country":"Japan",
+    "Status":"Proposed",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Japan",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Japan",
+    "Status":"Construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Japan",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Malaysia",
+    "Status":"Proposed",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Malaysia",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Malaysia",
+    "Status":"Construction",
+    "Capacity (mtpa)":2
+  },
+  {
+    "Country":"Malaysia",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Myanmar",
+    "Status":"Proposed",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Myanmar",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Myanmar",
+    "Status":"Construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Myanmar",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Pakistan",
+    "Status":"Proposed",
+    "Capacity (mtpa)":13.02
+  },
+  {
+    "Country":"Pakistan",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Pakistan",
+    "Status":"Construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Pakistan",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":7.3
+  },
+  {
+    "Country":"Philippines",
+    "Status":"Proposed",
+    "Capacity (mtpa)":16.4
+  },
+  {
+    "Country":"Philippines",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Philippines",
+    "Status":"Construction",
+    "Capacity (mtpa)":7.4
+  },
+  {
+    "Country":"Philippines",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Singapore",
+    "Status":"Proposed",
+    "Capacity (mtpa)":5
+  },
+  {
+    "Country":"Singapore",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Singapore",
+    "Status":"Construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Singapore",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"South Korea",
+    "Status":"Proposed",
+    "Capacity (mtpa)":3.5
+  },
+  {
+    "Country":"South Korea",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"South Korea",
+    "Status":"Construction",
+    "Capacity (mtpa)":26.5
+  },
+  {
+    "Country":"South Korea",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Taiwan",
+    "Status":"Proposed",
+    "Capacity (mtpa)":25.3
+  },
+  {
+    "Country":"Taiwan",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Taiwan",
+    "Status":"Construction",
+    "Capacity (mtpa)":8
+  },
+  {
+    "Country":"Taiwan",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Thailand",
+    "Status":"Proposed",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Thailand",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Thailand",
+    "Status":"Construction",
+    "Capacity (mtpa)":10.8
+  },
+  {
+    "Country":"Thailand",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":7
+  },
+  {
+    "Country":"Vietnam",
+    "Status":"Proposed",
+    "Capacity (mtpa)":17.1
+  },
+  {
+    "Country":"Vietnam",
+    "Status":"Pre-construction",
+    "Capacity (mtpa)":0
+  },
+  {
+    "Country":"Vietnam",
+    "Status":"Construction",
+    "Capacity (mtpa)":4.5
+  },
+  {
+    "Country":"Vietnam",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (mtpa)":8.95
+  }
+]
