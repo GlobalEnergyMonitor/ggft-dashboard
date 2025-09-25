@@ -353,7 +353,11 @@ function implentGraph(id) {
                 ...options.state,
                 layout: {
                     title: config.charts[id].title.replace('{{country}}', ''),
-                    subtitle: config.charts[id].subtitle,
+                    // subtitle: config.charts[id].subtitle,
+                    subtitle: (config.charts[id].hasOwnProperty('hyperlink') && config.charts[id].hyperlink)
+                        ? `${config.charts[id].subtitle}<a href="${config.charts[id].url}" target="_blank" rel="noopener noreferrer">${config.charts[id].hyperlink}</a>`
+                        : config.charts[id].subtitle
+
                 }
             }
         };
