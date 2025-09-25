@@ -1,4 +1,52 @@
 {
+        "25051331": {
+        "title": "In-development LNG capacity by status",
+        "subtitle": "",
+        "x_axis": "Status",
+        "values": [
+            "Capacity (mtpa)"
+        ],
+        "dataset": "25051331_ggft_output_filled",
+        "initial_state": "All",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "25051458": {
+        "title": "In-development gas plant by status",
+        "subtitle": "",
+        "x_axis": "Status",
+        "values": [
+            "Capacity (MW)"
+        ],
+        "dataset": "25051458_ggft_output_filled",
+        "initial_state": "All",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "25052602": {
+        "title": "Added LNG capacity over time",
+        "subtitle": "",
+        "x_axis": "Start year",
+        "values": [
+                "New capacity (mtpa)"
+        ],
+        "dataset": "25052602_ggft_output_filled",
+        "initial_state": "All",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "25052730": {
+        "title": "Added gas plant capacity over time",
+        "subtitle": "",
+        "x_axis": "Start year",
+        "values": [
+                "New capacity (MW)"
+        ],
+        "dataset": "25052730_ggft_output_filled",
+        "initial_state": "All",
+        "filterable": true,
+        "filter_by": "Country"
+    },   
     "25088546": {
         "title": "LNG capacity in development",
         "subtitle": "",
@@ -24,8 +72,10 @@
         "filter_by": "Country"
     },
     "25071902": {
-        "title": "Known LNG project finance",
-        "subtitle": "",
+        "title": "Known LNG project finance All Countries",
+        "subtitle": "For financier information by country, please see the ",
+        "hyperlink": "data download",
+        "url": "https://globalenergymonitor.org/projects/global-gas-finance-tracker/download-data/",
         "table": "Start year",
         "dataset": "25071902_ggft_output_filled",
         "initial_state": "All",
@@ -33,8 +83,10 @@
         "filter_by": "Country"
     },
     "25071855": {
-        "title": "Known gas plant project finance",
-        "subtitle": "",
+        "title": "Known gas plant project finance All Countries",
+        "subtitle": "For financier information by country, please see the ",
+        "hyperlink": "data download",
+        "url": "https://globalenergymonitor.org/projects/global-gas-finance-tracker/download-data/",
         "table": "Start year",
         "dataset": "25071855_ggft_output_filled",
         "initial_state": "All",
