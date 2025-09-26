@@ -2,7 +2,7 @@
   {
     "Country":"All",
     "Status":"Announced",
-    "Capacity (MW)":0
+    "Capacity (MW)":90633
   },
   {
     "Country":"All",
@@ -22,7 +22,7 @@
   {
     "Country":"Bangladesh",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":17010
   },
   {
     "Country":"Bangladesh",
@@ -42,7 +42,7 @@
   {
     "Country":"Cambodia",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":0
   },
   {
     "Country":"Cambodia",
@@ -62,7 +62,7 @@
   {
     "Country":"Indonesia",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":7820
   },
   {
     "Country":"Indonesia",
@@ -82,7 +82,7 @@
   {
     "Country":"Japan",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":3402.8
   },
   {
     "Country":"Japan",
@@ -102,7 +102,7 @@
   {
     "Country":"Malaysia",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":0
   },
   {
     "Country":"Malaysia",
@@ -122,7 +122,7 @@
   {
     "Country":"Myanmar",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":1390
   },
   {
     "Country":"Myanmar",
@@ -142,7 +142,7 @@
   {
     "Country":"Pakistan",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":0
   },
   {
     "Country":"Pakistan",
@@ -162,7 +162,7 @@
   {
     "Country":"Philippines",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":13969.5
   },
   {
     "Country":"Philippines",
@@ -182,7 +182,7 @@
   {
     "Country":"Singapore",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":100
   },
   {
     "Country":"Singapore",
@@ -202,7 +202,7 @@
   {
     "Country":"South Korea",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":15005
   },
   {
     "Country":"South Korea",
@@ -222,7 +222,7 @@
   {
     "Country":"Taiwan",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":1396
   },
   {
     "Country":"Taiwan",
@@ -242,7 +242,7 @@
   {
     "Country":"Thailand",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":4850
   },
   {
     "Country":"Thailand",
@@ -262,7 +262,7 @@
   {
     "Country":"Vietnam",
     "Status":"Announced",
-    "Capacity (MW)":0.0
+    "Capacity (MW)":25690
   },
   {
     "Country":"Vietnam",
