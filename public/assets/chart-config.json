@@ -28,7 +28,7 @@
         "subtitle": "",
         "x_axis": "Start year",
         "values": [
-                "New capacity (mtpa)"
+                "New LNG capacity (mtpa)"
         ],
         "dataset": "25052602_ggft_output_filled",
         "initial_state": "All",
@@ -40,7 +40,7 @@
         "subtitle": "",
         "x_axis": "Start year",
         "values": [
-                "New capacity (MW)"
+                "New gas capacity (MW)"
         ],
         "dataset": "25052730_ggft_output_filled",
         "initial_state": "All",
@@ -52,7 +52,7 @@
         "subtitle": "",
         "x_axis": "Start year",
         "values": [
-            "New LNG capacity"
+            "New LNG capacity (mtpa)"
         ],
         "dataset": "25088546_ggft_output_filled",
         "initial_state": "All",
@@ -64,7 +64,7 @@
         "subtitle": "",
         "x_axis": "Start year",
         "values": [
-                "New capacity (MW)"
+                "New gas capacity (MW)"
         ],
         "dataset": "25088647_ggft_output_filled",
         "initial_state": "All",
