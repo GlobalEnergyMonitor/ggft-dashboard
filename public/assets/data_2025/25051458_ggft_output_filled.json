@@ -1,7 +1,7 @@
 [
   {
     "Country":"All",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "Country":"Bangladesh",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "Country":"Cambodia",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "Country":"Indonesia",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "Country":"Japan",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "Country":"Malaysia",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "Country":"Myanmar",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "Country":"Pakistan",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "Country":"Philippines",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "Country":"Singapore",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "Country":"South Korea",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "Country":"Taiwan",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "Country":"Thailand",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "Country":"Vietnam",
-    "Status":"Proposed",
+    "Status":"Announced",
     "Capacity (MW)":0.0
   },
   {
