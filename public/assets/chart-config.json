@@ -79,7 +79,7 @@
         "table": "Start year",
         "dataset": "25071902_ggft_output_filled",
         "initial_state": "All",
-        "filterable": false,
+        "filterable": true,
         "filter_by": "Country"
     },
     "25071855": {
@@ -90,7 +90,7 @@
         "table": "Start year",
         "dataset": "25071855_ggft_output_filled",
         "initial_state": "All",
-        "filterable": false,
+        "filterable": true,
         "filter_by": "Country"
     }
 }
