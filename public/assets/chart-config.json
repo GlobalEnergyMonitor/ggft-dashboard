@@ -1,7 +1,7 @@
 {
         "25051331": {
         "title": "In-development LNG capacity by status",
-        "subtitle": "",
+        "subtitle": "LNG capacity (mtpa)",
         "x_axis": "Status",
         "values": [
             "Capacity (mtpa)"
@@ -13,7 +13,7 @@
     },
     "25051458": {
         "title": "In-development gas plant by status",
-        "subtitle": "",
+        "subtitle": "Gas capacity (MW)",
         "x_axis": "Status",
         "values": [
             "Capacity (MW)"
@@ -25,7 +25,7 @@
     },
     "25052602": {
         "title": "Added LNG capacity over time",
-        "subtitle": "",
+        "subtitle": "New LNG capacity (mtpa)",
         "x_axis": "Start year",
         "values": [
                 "New LNG capacity (mtpa)"
@@ -37,7 +37,7 @@
     },
     "25052730": {
         "title": "Added gas plant capacity over time",
-        "subtitle": "",
+        "subtitle": "New gas capacity (MW)",
         "x_axis": "Start year",
         "values": [
                 "New gas capacity (MW)"
@@ -49,7 +49,7 @@
     },   
     "25088546": {
         "title": "LNG capacity in development",
-        "subtitle": "",
+        "subtitle": "New LNG capacity (mtpa)",
         "x_axis": "Start year",
         "values": [
             "New LNG capacity (mtpa)"
@@ -61,7 +61,7 @@
     },
     "25088647": {
         "title": "Gas plant capacity in development",
-        "subtitle": "",
+        "subtitle": "New gas capacity (MW)",
         "x_axis": "Start year",
         "values": [
                 "New gas capacity (MW)"
