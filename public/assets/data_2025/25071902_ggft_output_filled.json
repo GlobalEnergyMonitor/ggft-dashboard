@@ -7,12 +7,12 @@
   {
     "Country":"All",
     "Financier":"CPC Corporation",
-    "Known project finance, million $US":2592.0
+    "Known project finance, million $US":"$2,592.0"
   },
   {
     "Country":"All",
     "Financier":"Export-Import Bank of\nKorea",
-    "Known project finance, million $US":175.8
+    "Known project finance, million $US":"$175.8"
   },
   {
     "Country":"All",
@@ -22,7 +22,7 @@
   {
     "Country":"All",
     "Financier":"GS Holdings",
-    "Known project finance, million $US":74.0
+    "Known project finance, million $US":"$74.0"
   },
   {
     "Country":"All",
@@ -32,7 +32,7 @@
   {
     "Country":"All",
     "Financier":"Hanyang Group",
-    "Known project finance, million $US":111.0
+    "Known project finance, million $US":"$111.0"
   },
   {
     "Country":"All",
@@ -42,7 +42,7 @@
   {
     "Country":"All",
     "Financier":"Industrial Bank of Korea",
-    "Known project finance, million $US":198.2
+    "Known project finance, million $US":"$198.2"
   },
   {
     "Country":"All",
@@ -57,7 +57,7 @@
   {
     "Country":"All",
     "Financier":"Land Bank of the Philippines",
-    "Known project finance, million $US":16.0
+    "Known project finance, million $US":"$16.0"
   },
   {
     "Country":"All",
@@ -72,7 +72,7 @@
   {
     "Country":"All",
     "Financier":"POSCO International",
-    "Known project finance, million $US":306.0
+    "Known project finance, million $US":"$306.0"
   },
   {
     "Country":"All",
@@ -92,12 +92,12 @@
   {
     "Country":"All",
     "Financier":"Standard Chartered Bank",
-    "Known project finance, million $US":16.0
+    "Known project finance, million $US":"$16.0"
   },
   {
     "Country":"All",
     "Financier":"Tbc",
-    "Known project finance, million $US":1000.0
+    "Known project finance, million $US":"$1,000.0"
   },
   {
     "Country":"All",
@@ -112,22 +112,22 @@
   {
     "Country":"Malaysia",
     "Financier":"Tbc",
-    "Known project finance, million $US":1000.0
+    "Known project finance, million $US":"$1,000.0"
   },
   {
     "Country":"Philippines",
     "Financier":"Land Bank of the Philippines",
-    "Known project finance, million $US":16.0
+    "Known project finance, million $US":"$16.0"
   },
   {
     "Country":"Philippines",
     "Financier":"Standard Chartered Bank",
-    "Known project finance, million $US":16.0
+    "Known project finance, million $US":"$16.0"
   },
   {
     "Country":"South Korea",
     "Financier":"Export-Import Bank of\nKorea",
-    "Known project finance, million $US":175.8
+    "Known project finance, million $US":"$175.8"
   },
   {
     "Country":"South Korea",
@@ -137,12 +137,12 @@
   {
     "Country":"South Korea",
     "Financier":"GS Holdings",
-    "Known project finance, million $US":74.0
+    "Known project finance, million $US":"$74.0"
   },
   {
     "Country":"South Korea",
     "Financier":"Hanyang Group",
-    "Known project finance, million $US":111.0
+    "Known project finance, million $US":"$111.0"
   },
   {
     "Country":"South Korea",
@@ -152,7 +152,7 @@
   {
     "Country":"South Korea",
     "Financier":"Industrial Bank of Korea",
-    "Known project finance, million $US":198.2
+    "Known project finance, million $US":"$198.2"
   },
   {
     "Country":"South Korea",
@@ -172,7 +172,7 @@
   {
     "Country":"South Korea",
     "Financier":"POSCO International",
-    "Known project finance, million $US":306.0
+    "Known project finance, million $US":"$306.0"
   },
   {
     "Country":"South Korea",
@@ -197,7 +197,7 @@
   {
     "Country":"Taiwan",
     "Financier":"CPC Corporation",
-    "Known project finance, million $US":2592.0
+    "Known project finance, million $US":"$2,592.0"
   },
   {
     "Country":"Vietnam",

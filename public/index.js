@@ -337,18 +337,6 @@ function implentGraph(id) {
             api_url: "/flourish",
             api_key: "", //filled in server side
             base_visualisation_id: id,
-            bindings: {
-                ...options.bindings,
-                data: {
-                    ...options.bindings.data,
-                    label: config.charts[id].x_axis, // this seems to be the X axis
-                    value: config.charts[id].values, // this is the actual bar
-                }
-            },
-            data: {
-                ...options.data,
-                data: initialData(id),
-            },
             state: {
                 ...options.state,
                 layout: {
@@ -361,10 +349,23 @@ function implentGraph(id) {
                 }
             }
         };
-        if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
+        if (options.template === "@flourish/line-bar-pie") {
+            graphs[id].opts.version = 25;
+            graphs[id].opts.bindings.data = {
+                    ...options.bindings.data,
+                    label: config.charts[id].x_axis, // this seems to be the X axis
+                    value: config.charts[id].values, // this is the actual bar
+            };
+            graphs[id].opts.data = {
+                ...options.data,
+                data: initialData(id),
+            };
+        }
+
         // if (config.charts[id].filterable) {
         //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
         // }
+
         graphs[id].flourish = new Flourish.Live(graphs[id].opts);
     });
 }
@@ -374,21 +375,25 @@ function updateGraphs(key) {
     graphIDs.forEach(id => {
         const currentGraph = config.charts[id];
         if (currentGraph.filterable) {
-
             let filteredData;
-            if (typeof config.charts[id].filter_by === 'string') {
+            if (typeof config.charts[id].filter_by === 'string' && graphs[id].opts.template === "@flourish/line-bar-pie") {
                 filteredData = config.datasets[id].filter(entry => formatName(entry[currentGraph.filter_by]) === key);
+                graphs[id].opts.data = {
+                    data: filteredData
+                };
+            } else if (typeof config.charts[id].filter_by === 'string' && graphs[id].opts.template === "@flourish/table") {
+                const data = config.datasets[id];
+                const keys = Object.keys(data[0]);
+                filteredData = data.filter(entry => formatName(entry[currentGraph.filter_by]) === key).map(entry => Object.values(entry));
+                graphs[id].opts.data = {
+                    rows: [keys, ...filteredData]
+                };
             } else {
                 if (getUnformattedInputName(key) === 'All') filteredData = config.datasets[id];
                 else filteredData = filterDataOnColumnName(key, id);
             }
 
             if (filteredData.length !== 0) {
-                graphs[id].opts.data = {
-                    data: filteredData
-                };
-                // const replacementString = key === currentGraph.initial_state.toLowerCase() ? chart_title_variation_initial : chart_title_variation_filtered.replace(chart_title_flag, filteredData[0].Country);
-                // graphs[id].opts.state.layout.title = currentGraph.title.replace('', ` ${replacementString}?`)
                 graphs[id].flourish.update(graphs[id].opts)
                 document.querySelector(`#chart-${id} iframe`).style.opacity = 1;
             } else {
