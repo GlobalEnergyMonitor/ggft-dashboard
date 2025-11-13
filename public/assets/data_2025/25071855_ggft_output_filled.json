@@ -1,104 +1,680 @@
 [
   {
     "Country":"All",
-    "Financier":"Atimonan One Energy >> <b>Known projects financed:<\/b> Atimonan power station units 1-4",
+    "Financier":"Freeport-McMoRan Inc >> <b>Known projects financed:<\/b> Amamapare Port power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$1,000.0"
+  },
+  {
+    "Country":"Indonesia",
+    "Financier":"Freeport-McMoRan Inc >> <b>Known projects financed:<\/b> Amamapare Port power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$1,000.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Asian Development Bank >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station, Rupsha power station units 1-2, O Mon Power Complex unit 4, Quang Ninh Combined Cycle power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$909.9"
+  },
+  {
+    "Country":"All",
+    "Financier":"EVN >> <b>Known projects financed:<\/b> O Mon Power Complex units 3-4",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$692.0"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"EVN >> <b>Known projects financed:<\/b> O Mon Power Complex units 3-4",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$692.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Chungchia power station",
     "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"$640.0"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Chungchia power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"$640.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Taiwan Power Co >> <b>Known projects financed:<\/b> Datan power station units 7-3 and 9, Hsieh-Ho power station units 1-2, Hsinta power station units New 1-New 3, Taichung power station units CC1-CC6, Talin power station units 7-8, Tunghsiao power station units New 4-New 8",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$602.0"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Taiwan Power Co >> <b>Known projects financed:<\/b> Datan power station units 7-3 and 9, Hsieh-Ho power station units 1-2, Hsinta power station units New 1-New 3, Taichung power station units CC1-CC6, Talin power station units 7-8, Tunghsiao power station units New 4-New 8",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$602.0"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Asian Development Bank >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station, Rupsha power station units 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$600.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Korea District Heating Corp >> <b>Known projects financed:<\/b> Cheongju CHP plant, Hannan Daegu CHP power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$483.0"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"Korea District Heating Corp >> <b>Known projects financed:<\/b> Cheongju CHP plant, Hannan Daegu CHP power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$483.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Government of Bangladesh >> <b>Known projects financed:<\/b> Rupsha power station units 1-2, Sayedpur power station unit 2",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$425.5"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Government of Bangladesh >> <b>Known projects financed:<\/b> Rupsha power station units 1-2, Sayedpur power station unit 2",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$425.5"
+  },
+  {
+    "Country":"All",
+    "Financier":"Various >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$410.0"
+  },
+  {
+    "Country":"Japan",
+    "Financier":"Various >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$410.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Korea Midland Power Co Ltd >> <b>Known projects financed:<\/b> Boryeong power station unit CC5",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$385.0"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"Korea Midland Power Co Ltd >> <b>Known projects financed:<\/b> Boryeong power station unit CC5",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$385.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"First Pacific Co Ltd >> <b>Known projects financed:<\/b> Jurong Island CC power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$315.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Manila Electric Co >> <b>Known projects financed:<\/b> Jurong Island CC power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$315.0"
+  },
+  {
+    "Country":"Singapore",
+    "Financier":"First Pacific Co Ltd >> <b>Known projects financed:<\/b> Jurong Island CC power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$315.0"
+  },
+  {
+    "Country":"Singapore",
+    "Financier":"Manila Electric Co >> <b>Known projects financed:<\/b> Jurong Island CC power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$315.0"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"Asian Development Bank >> <b>Known projects financed:<\/b> O Mon Power Complex unit 4, Quang Ninh Combined Cycle power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$309.9"
+  },
+  {
+    "Country":"All",
+    "Financier":"Islamic Development Bank >> <b>Known projects financed:<\/b> Rupsha power station units 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$300.0"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Islamic Development Bank >> <b>Known projects financed:<\/b> Rupsha power station units 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$300.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"JBIC >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station, Quang Ninh Combined Cycle power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$265.0"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"JBIC >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$265.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Chung Chia Power Co Ltd [100%] >> <b>Known projects financed:<\/b> Chungchia power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$202.0"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Chung Chia Power Co Ltd [100%] >> <b>Known projects financed:<\/b> Chungchia power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$202.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Combined Cycle power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$165.0"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Combined Cycle power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$165.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Sun Ba Power Corp [100%] >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$131.0"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Sun Ba Power Corp [100%] >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$131.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"National Power Supply PCL >> <b>Known projects financed:<\/b> Burapa power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$115.0"
+  },
+  {
+    "Country":"Thailand",
+    "Financier":"National Power Supply PCL >> <b>Known projects financed:<\/b> Burapa power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$115.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"MUFG Bank >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$101.5"
+  },
+  {
+    "Country":"Japan",
+    "Financier":"MUFG Bank >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$101.5"
+  },
+  {
+    "Country":"All",
+    "Financier":"Leading Asia's Private Infrastructure Fund >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$100.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"SACE >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$100.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Sumitomo Mitsubishi Banking Corporation  >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station, Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$100.0"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Leading Asia's Private Infrastructure Fund >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$100.0"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"SACE >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$100.0"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"Sumitomo Mitsubishi Banking Corporation  >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$100.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Bank of Taiwan >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Changhua Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"E.Sun Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Far Eastern Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"First Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Hua Nan Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Land Bank of China >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Shanghai Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Taipei Fubon Commercial Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Taiwan Cooperative Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Taiwan Small and Medium Enterprise Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Bank of Taiwan >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Changhua Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"E.Sun Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Far Eastern Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"First Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Hua Nan Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Land Bank of China >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Shanghai Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Taipei Fubon Commercial Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Taiwan Cooperative Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"Taiwan Small and Medium Enterprise Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$75.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Norichukin Bank >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$68.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Sumitomo Mitsui Trust Bank Ltd >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$68.0"
+  },
+  {
+    "Country":"Japan",
+    "Financier":"Norichukin Bank >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$68.0"
+  },
+  {
+    "Country":"Japan",
+    "Financier":"Sumitomo Mitsui Trust Bank Ltd >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$68.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"GE CAPITAL GLOBAL ENERGY INVESTMENTS BV  >> <b>Known projects financed:<\/b> Chungchia power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$67.1"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"GE CAPITAL GLOBAL ENERGY INVESTMENTS BV  >> <b>Known projects financed:<\/b> Chungchia power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$67.1"
+  },
+  {
+    "Country":"All",
+    "Financier":"Gulf Energy Development PCL >> <b>Known projects financed:<\/b> Burapa power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$62.0"
+  },
+  {
+    "Country":"Thailand",
+    "Financier":"Gulf Energy Development PCL >> <b>Known projects financed:<\/b> Burapa power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$62.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Tokyo Gas >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"$59.8"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"Tokyo Gas >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"$59.8"
+  },
+  {
+    "Country":"All",
+    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4, Sayedpur power station unit 2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$46.6"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Sayedpur power station unit 2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$46.6"
+  },
+  {
+    "Country":"All",
+    "Financier":"Kyushu Electric Power >> <b>Known projects financed:<\/b> Hibiki Natural Gas power plant, Thai Binh Combined Cycle power station units 1-2",
+    "Debt or Equity":"Equity, Unknown",
+    "Known project finance, million $US":"$44.9"
+  },
+  {
+    "Country":"All",
+    "Financier":"Truong Thanh Vietnam Group JSC >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"$44.9"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"Kyushu Electric Power >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2, Son My I power station",
+    "Debt or Equity":"Equity, Unknown",
+    "Known project finance, million $US":"$44.9"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"Truong Thanh Vietnam Group JSC >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"$44.9"
+  },
+  {
+    "Country":"All",
+    "Financier":"Mizuho >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$44.2"
+  },
+  {
+    "Country":"All",
+    "Financier":"MUFG >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$44.2"
+  },
+  {
+    "Country":"All",
+    "Financier":"SMBC >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station, Quang Ninh Combined Cycle power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$44.2"
+  },
+  {
+    "Country":"All",
+    "Financier":"Societe Generale >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$44.2"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Mizuho >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$44.2"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"MUFG >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$44.2"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"SMBC >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$44.2"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Societe Generale >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$44.2"
+  },
+  {
+    "Country":"All",
+    "Financier":"AKA Bank  >> <b>Known projects financed:<\/b> Sreepur power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$38.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Commerzbank >> <b>Known projects financed:<\/b> Sreepur power station, Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$38.0"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"AKA Bank  >> <b>Known projects financed:<\/b> Sreepur power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$38.0"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Commerzbank >> <b>Known projects financed:<\/b> Sreepur power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$38.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"B-R Powergen Ltd  >> <b>Known projects financed:<\/b> Sreepur power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$36.3"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"B-R Powergen Ltd  >> <b>Known projects financed:<\/b> Sreepur power station",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$36.3"
+  },
+  {
+    "Country":"All",
+    "Financier":"Bangladesh Power Development Board >> <b>Known projects financed:<\/b> Sayedpur power station unit 2",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$31.1"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Bangladesh Power Development Board >> <b>Known projects financed:<\/b> Sayedpur power station unit 2",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$31.1"
+  },
+  {
+    "Country":"All",
+    "Financier":"Actis Investment Fund >> <b>Known projects financed:<\/b> Cong Thanh power station",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"British Petroleum  >> <b>Known projects financed:<\/b> Cong Thanh power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Citi >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"EGCO Group >> <b>Known projects financed:<\/b> Energies PH Quezon power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Credit Agricole  >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"General Electric >> <b>Known projects financed:<\/b> Cong Thanh power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"DBS Bank >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"GEV >> <b>Known projects financed:<\/b> Mirsarai LNG power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Development Finance Corporation >> <b>Known projects financed:<\/b> Son My II power station units 1-3",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"IFC >> <b>Known projects financed:<\/b> Chan May power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"DZ Bank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Marubeni >> <b>Known projects financed:<\/b> Pertamina Bangladesh power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Energy Market Authority (Singapore)  >> <b>Known projects financed:<\/b> Meranti gas turbine power station units 1-2",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Meralco PowerGen Corp >> <b>Known projects financed:<\/b> Atimonan power station units 1-4",
-    "Debt or Equity":"Unknown",
+    "Financier":"Exim Bank >> <b>Known projects financed:<\/b> Son My II power station units 1-3",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Nebras Power >> <b>Known projects financed:<\/b> Mirsarai LNG power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"ING >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Pertamina >> <b>Known projects financed:<\/b> Pertamina Bangladesh power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"LBW >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Strategic Finance\nLimited >> <b>Known projects financed:<\/b> Mirsarai LNG power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Hai Lang power station, O Mon Power Complex unit 2",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Supreme Trading Co >> <b>Known projects financed:<\/b> Mee Laung Gyaing power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"OCBC Bank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Unique Hotel &\nResorts >> <b>Known projects financed:<\/b> Mirsarai LNG power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"PT PLN (Persero) >> <b>Known projects financed:<\/b> Muara Tawar power station units 3-0-4-0",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"US DFC >> <b>Known projects financed:<\/b> Chan May power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"TBD >> <b>Known projects financed:<\/b> Botum Sakor power station units New1a-New1b",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"US Ex-Im >> <b>Known projects financed:<\/b> Chan May power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Various commerical banks and ECAs >> <b>Known projects financed:<\/b> Balikpapan Refinery power plant units 1-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Vires Energy Corp [Parent: A Brown Co Inc] >> <b>Known projects financed:<\/b> Vires Energy floating power plant",
-    "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Zhefu Holding Group >> <b>Known projects financed:<\/b> Mee Laung Gyaing power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Vietcombank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
@@ -355,387 +931,129 @@
   },
   {
     "Country":"All",
-    "Financier":"Actis Investment Fund >> <b>Known projects financed:<\/b> Cong Thanh power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Citi >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Credit Agricole  >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"DBS Bank >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Development Finance Corporation >> <b>Known projects financed:<\/b> Son My II power station units 1-3",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"DZ Bank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Energy Market Authority (Singapore)  >> <b>Known projects financed:<\/b> Meranti gas turbine power station units 1-2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Exim Bank >> <b>Known projects financed:<\/b> Son My II power station units 1-3",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"ING >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"LBW >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Hai Lang power station, O Mon Power Complex unit 2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"OCBC Bank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"PT PLN (Persero) >> <b>Known projects financed:<\/b> Muara Tawar power station units 3-0-4-0",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"TBD >> <b>Known projects financed:<\/b> Botum Sakor power station units New1a-New1b",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Various commerical banks and ECAs >> <b>Known projects financed:<\/b> Balikpapan Refinery power plant units 1-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Vietcombank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"All",
-    "Financier":"Asian Development Bank >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station, Rupsha power station units 1-2, O Mon Power Complex unit 4, Quang Ninh Combined Cycle power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$909.89"
-  },
-  {
-    "Country":"All",
-    "Financier":"Bank of Taiwan >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Changhua Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"E.Sun Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Far Eastern Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"First Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Hua Nan Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Land Bank of China >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Shanghai Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Taipei Fubon Commercial Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Taiwan Cooperative Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Taiwan Small and Medium Enterprise Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"EVN >> <b>Known projects financed:<\/b> O Mon Power Complex units 3-4",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$692"
-  },
-  {
-    "Country":"All",
-    "Financier":"Norichukin Bank >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$68"
-  },
-  {
-    "Country":"All",
-    "Financier":"Sumitomo Mitsui Trust Bank Ltd >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$68"
-  },
-  {
-    "Country":"All",
-    "Financier":"GE CAPITAL GLOBAL ENERGY INVESTMENTS BV  >> <b>Known projects financed:<\/b> Chungchia power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$67.10"
-  },
-  {
-    "Country":"All",
-    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Chungchia power station",
+    "Financier":"Atimonan One Energy >> <b>Known projects financed:<\/b> Atimonan power station units 1-4",
     "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"$640"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Gulf Energy Development PCL >> <b>Known projects financed:<\/b> Burapa power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$62"
-  },
-  {
-    "Country":"All",
-    "Financier":"Taiwan Power Co >> <b>Known projects financed:<\/b> Datan power station units 7-3 and 9, Hsieh-Ho power station units 1-2, Hsinta power station units New 1-New 3, Taichung power station units CC1-CC6, Talin power station units 7-8, Tunghsiao power station units New 4-New 8",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$602"
-  },
-  {
-    "Country":"All",
-    "Financier":"Tokyo Gas >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2",
+    "Financier":"British Petroleum  >> <b>Known projects financed:<\/b> Cong Thanh power station",
     "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"$59.80"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Korea District Heating Corp >> <b>Known projects financed:<\/b> Cheongju CHP plant, Hannan Daegu CHP power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$483"
-  },
-  {
-    "Country":"All",
-    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4, Sayedpur power station unit 2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$46.60"
-  },
-  {
-    "Country":"All",
-    "Financier":"Truong Thanh Vietnam Group JSC >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2",
+    "Financier":"EGCO Group >> <b>Known projects financed:<\/b> Energies PH Quezon power station",
     "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"$44.85"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Kyushu Electric Power >> <b>Known projects financed:<\/b> Hibiki Natural Gas power plant, Thai Binh Combined Cycle power station units 1-2",
-    "Debt or Equity":"Equity, Unknown",
-    "Known project finance, million $US":"$44.85"
+    "Financier":"General Electric >> <b>Known projects financed:<\/b> Cong Thanh power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Mizuho >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$44.25"
+    "Financier":"GEV >> <b>Known projects financed:<\/b> Mirsarai LNG power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"MUFG >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$44.25"
+    "Financier":"IFC >> <b>Known projects financed:<\/b> Chan May power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"SMBC >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station, Quang Ninh Combined Cycle power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$44.25"
+    "Financier":"Marubeni >> <b>Known projects financed:<\/b> Pertamina Bangladesh power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Societe Generale >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$44.25"
+    "Financier":"Meralco PowerGen Corp >> <b>Known projects financed:<\/b> Atimonan power station units 1-4",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Government of Bangladesh >> <b>Known projects financed:<\/b> Rupsha power station units 1-2, Sayedpur power station unit 2",
+    "Financier":"Nebras Power >> <b>Known projects financed:<\/b> Mirsarai LNG power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Pertamina >> <b>Known projects financed:<\/b> Pertamina Bangladesh power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Strategic Finance\nLimited >> <b>Known projects financed:<\/b> Mirsarai LNG power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Supreme Trading Co >> <b>Known projects financed:<\/b> Mee Laung Gyaing power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Unique Hotel &\nResorts >> <b>Known projects financed:<\/b> Mirsarai LNG power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"US DFC >> <b>Known projects financed:<\/b> Chan May power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"US Ex-Im >> <b>Known projects financed:<\/b> Chan May power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Vires Energy Corp [Parent: A Brown Co Inc] >> <b>Known projects financed:<\/b> Vires Energy floating power plant",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Zhefu Holding Group >> <b>Known projects financed:<\/b> Mee Laung Gyaing power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Bangladesh",
+    "Financier":"Chubu Electric Power  >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
     "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$425.50"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"All",
-    "Financier":"Various >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$410"
-  },
-  {
-    "Country":"All",
-    "Financier":"Korea Midland Power Co Ltd >> <b>Known projects financed:<\/b> Boryeong power station unit CC5",
+    "Country":"Bangladesh",
+    "Financier":"Reliance Power >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
     "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$385"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"All",
-    "Financier":"AKA Bank  >> <b>Known projects financed:<\/b> Sreepur power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$38"
-  },
-  {
-    "Country":"All",
-    "Financier":"Commerzbank >> <b>Known projects financed:<\/b> Sreepur power station, Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$38"
-  },
-  {
-    "Country":"All",
-    "Financier":"B-R Powergen Ltd  >> <b>Known projects financed:<\/b> Sreepur power station",
+    "Country":"Bangladesh",
+    "Financier":"Tokyo Electric Power >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
     "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$36.30"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"All",
-    "Financier":"First Pacific Co Ltd >> <b>Known projects financed:<\/b> Jurong Island CC power station",
+    "Country":"Bangladesh",
+    "Financier":"United Power Generation & Distribution Co Ltd [ >> <b>Known projects financed:<\/b> UPGD Anwara power station",
     "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$315"
-  },
-  {
-    "Country":"All",
-    "Financier":"Manila Electric Co >> <b>Known projects financed:<\/b> Jurong Island CC power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$315"
-  },
-  {
-    "Country":"All",
-    "Financier":"Bangladesh Power Development Board >> <b>Known projects financed:<\/b> Sayedpur power station unit 2",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$31.09"
-  },
-  {
-    "Country":"All",
-    "Financier":"Islamic Development Bank >> <b>Known projects financed:<\/b> Rupsha power station units 1-2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$300"
-  },
-  {
-    "Country":"All",
-    "Financier":"JBIC >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station, Quang Ninh Combined Cycle power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$265"
-  },
-  {
-    "Country":"All",
-    "Financier":"Chung Chia Power Co Ltd [100%] >> <b>Known projects financed:<\/b> Chungchia power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$202"
-  },
-  {
-    "Country":"All",
-    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Combined Cycle power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$165"
-  },
-  {
-    "Country":"All",
-    "Financier":"Sun Ba Power Corp [100%] >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$131"
-  },
-  {
-    "Country":"All",
-    "Financier":"National Power Supply PCL >> <b>Known projects financed:<\/b> Burapa power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$115"
-  },
-  {
-    "Country":"All",
-    "Financier":"MUFG Bank >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$101.50"
-  },
-  {
-    "Country":"All",
-    "Financier":"Leading Asia's Private Infrastructure Fund >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$100"
-  },
-  {
-    "Country":"All",
-    "Financier":"SACE >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$100"
-  },
-  {
-    "Country":"All",
-    "Financier":"Sumitomo Mitsubishi Banking Corporation  >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station, Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$100"
-  },
-  {
-    "Country":"All",
-    "Financier":"Freeport-McMoRan Inc >> <b>Known projects financed:<\/b> Amamapare Port power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$1,000"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Bangladesh",
@@ -774,134 +1092,14 @@
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"Bangladesh",
-    "Financier":"Chubu Electric Power  >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Reliance Power >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Tokyo Electric Power >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"United Power Generation & Distribution Co Ltd [ >> <b>Known projects financed:<\/b> UPGD Anwara power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Asian Development Bank >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station, Rupsha power station units 1-2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$600"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Sayedpur power station unit 2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$46.60"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Mizuho >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$44.25"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"MUFG >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$44.25"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"SMBC >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$44.25"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Societe Generale >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$44.25"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Government of Bangladesh >> <b>Known projects financed:<\/b> Rupsha power station units 1-2, Sayedpur power station unit 2",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$425.50"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"AKA Bank  >> <b>Known projects financed:<\/b> Sreepur power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$38"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Commerzbank >> <b>Known projects financed:<\/b> Sreepur power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$38"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"B-R Powergen Ltd  >> <b>Known projects financed:<\/b> Sreepur power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$36.30"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Bangladesh Power Development Board >> <b>Known projects financed:<\/b> Sayedpur power station unit 2",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$31.09"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Islamic Development Bank >> <b>Known projects financed:<\/b> Rupsha power station units 1-2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$300"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"JBIC >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$265"
-  },
-  {
-    "Country":"Bangladesh",
-    "Financier":"Leading Asia's Private Infrastructure Fund >> <b>Known projects financed:<\/b> Reliance Meghnaghat power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$100"
-  },
-  {
-    "Country":"Cambodia",
-    "Financier":"Royal Group >> <b>Known projects financed:<\/b> Botum Sakor power station units New1a-New1b",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
     "Country":"Cambodia",
     "Financier":"TBD >> <b>Known projects financed:<\/b> Botum Sakor power station units New1a-New1b",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"Indonesia",
-    "Financier":"PT Amman Mineral Internasional Tbk >> <b>Known projects financed:<\/b> Batu Hijau power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Indonesia",
-    "Financier":"PT Pertamina (Persero) >> <b>Known projects financed:<\/b> Balikpapan Refinery power plant units 1-4",
+    "Country":"Cambodia",
+    "Financier":"Royal Group >> <b>Known projects financed:<\/b> Botum Sakor power station units New1a-New1b",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
@@ -919,9 +1117,15 @@
   },
   {
     "Country":"Indonesia",
-    "Financier":"Freeport-McMoRan Inc >> <b>Known projects financed:<\/b> Amamapare Port power station",
+    "Financier":"PT Amman Mineral Internasional Tbk >> <b>Known projects financed:<\/b> Batu Hijau power station",
     "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$1,000"
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Indonesia",
+    "Financier":"PT Pertamina (Persero) >> <b>Known projects financed:<\/b> Balikpapan Refinery power plant units 1-4",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Japan",
@@ -960,30 +1164,6 @@
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"Japan",
-    "Financier":"Norichukin Bank >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$68"
-  },
-  {
-    "Country":"Japan",
-    "Financier":"Sumitomo Mitsui Trust Bank Ltd >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$68"
-  },
-  {
-    "Country":"Japan",
-    "Financier":"Various >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$410"
-  },
-  {
-    "Country":"Japan",
-    "Financier":"MUFG Bank >> <b>Known projects financed:<\/b> Himeji Natural Gas power station units CC1-CC2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$101.50"
-  },
-  {
     "Country":"Myamar",
     "Financier":"Zhefu Holding Group >> <b>Known projects financed:<\/b> Mee Laung Gyaing power station",
     "Debt or Equity":"Unknown",
@@ -992,30 +1172,6 @@
   {
     "Country":"Myanmar",
     "Financier":"Supreme Trading Co >> <b>Known projects financed:<\/b> Mee Laung Gyaing power station",
-    "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Philippines",
-    "Financier":"Atimonan One Energy >> <b>Known projects financed:<\/b> Atimonan power station units 1-4",
-    "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Philippines",
-    "Financier":"EGCO Group >> <b>Known projects financed:<\/b> Energies PH Quezon power station",
-    "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Philippines",
-    "Financier":"Meralco PowerGen Corp >> <b>Known projects financed:<\/b> Atimonan power station units 1-4",
-    "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Philippines",
-    "Financier":"Vires Energy Corp [Parent: A Brown Co Inc] >> <b>Known projects financed:<\/b> Vires Energy floating power plant",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
@@ -1063,32 +1219,26 @@
   },
   {
     "Country":"Philippines",
-    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Combined Cycle power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$165"
-  },
-  {
-    "Country":"Singapore",
-    "Financier":"Keppel Asia Infrastructure Fund [70%] >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station",
-    "Debt or Equity":"Equity",
+    "Financier":"Atimonan One Energy >> <b>Known projects financed:<\/b> Atimonan power station units 1-4",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"Singapore",
-    "Financier":"Keppel Energy Ltd >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station",
-    "Debt or Equity":"Equity",
+    "Country":"Philippines",
+    "Financier":"EGCO Group >> <b>Known projects financed:<\/b> Energies PH Quezon power station",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"Singapore",
-    "Financier":"Sembcorp Industries Ltd  >> <b>Known projects financed:<\/b> Sembcorp hydrogen-ready power plant",
-    "Debt or Equity":"Equity",
+    "Country":"Philippines",
+    "Financier":"Meralco PowerGen Corp >> <b>Known projects financed:<\/b> Atimonan power station units 1-4",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"Singapore",
-    "Financier":"YTL Corporation Bhd >> <b>Known projects financed:<\/b> Pulau Seraya power station Hydrogen-ready CC",
-    "Debt or Equity":"Equity",
+    "Country":"Philippines",
+    "Financier":"Vires Energy Corp [Parent: A Brown Co Inc] >> <b>Known projects financed:<\/b> Vires Energy floating power plant",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
@@ -1123,15 +1273,27 @@
   },
   {
     "Country":"Singapore",
-    "Financier":"First Pacific Co Ltd >> <b>Known projects financed:<\/b> Jurong Island CC power station",
+    "Financier":"Keppel Asia Infrastructure Fund [70%] >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station",
     "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$315"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Singapore",
-    "Financier":"Manila Electric Co >> <b>Known projects financed:<\/b> Jurong Island CC power station",
+    "Financier":"Keppel Energy Ltd >> <b>Known projects financed:<\/b> Keppel Sakra cogeneration power station",
     "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$315"
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Singapore",
+    "Financier":"Sembcorp Industries Ltd  >> <b>Known projects financed:<\/b> Sembcorp hydrogen-ready power plant",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Singapore",
+    "Financier":"YTL Corporation Bhd >> <b>Known projects financed:<\/b> Pulau Seraya power station Hydrogen-ready CC",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
@@ -1152,118 +1314,10 @@
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"South Korea",
-    "Financier":"Korea District Heating Corp >> <b>Known projects financed:<\/b> Cheongju CHP plant, Hannan Daegu CHP power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$483"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"Korea Midland Power Co Ltd >> <b>Known projects financed:<\/b> Boryeong power station unit CC5",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$385"
-  },
-  {
     "Country":"Taiwan",
     "Financier":"Shinfox Energy Co Ltd  >> <b>Known projects financed:<\/b> Tainan Jiuwei Nanke power station units 1-2",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Bank of Taiwan >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Changhua Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"E.Sun Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Far Eastern Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"First Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Hua Nan Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Land Bank of China >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Shanghai Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Taipei Fubon Commercial Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Taiwan Cooperative Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Taiwan Small and Medium Enterprise Bank >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$75.8"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"GE CAPITAL GLOBAL ENERGY INVESTMENTS BV  >> <b>Known projects financed:<\/b> Chungchia power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$67.10"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Chungchia power station",
-    "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"$640"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Taiwan Power Co >> <b>Known projects financed:<\/b> Datan power station units 7-3 and 9, Hsieh-Ho power station units 1-2, Hsinta power station units New 1-New 3, Taichung power station units CC1-CC6, Talin power station units 7-8, Tunghsiao power station units New 4-New 8",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$602"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Chung Chia Power Co Ltd [100%] >> <b>Known projects financed:<\/b> Chungchia power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$202"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"Sun Ba Power Corp [100%] >> <b>Known projects financed:<\/b> Fong Der power station unit 2-1",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$131"
   },
   {
     "Country":"Thailand",
@@ -1272,45 +1326,87 @@
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
-    "Country":"Thailand",
-    "Financier":"Gulf Energy Development PCL >> <b>Known projects financed:<\/b> Burapa power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$62"
-  },
-  {
-    "Country":"Thailand",
-    "Financier":"National Power Supply PCL >> <b>Known projects financed:<\/b> Burapa power station",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$115"
-  },
-  {
     "Country":"Vietnam",
-    "Financier":"British Petroleum  >> <b>Known projects financed:<\/b> Cong Thanh power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Actis Investment Fund >> <b>Known projects financed:<\/b> Cong Thanh power station",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"General Electric >> <b>Known projects financed:<\/b> Cong Thanh power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"IFC >> <b>Known projects financed:<\/b> Chan May power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Citi >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"US DFC >> <b>Known projects financed:<\/b> Chan May power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Commerzbank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"US Ex-Im >> <b>Known projects financed:<\/b> Chan May power station",
-    "Debt or Equity":"Unknown",
+    "Financier":"Development Finance Corporation >> <b>Known projects financed:<\/b> Son My II power station units 1-3",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"DZ Bank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"Exim Bank >> <b>Known projects financed:<\/b> Son My II power station units 1-3",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"ING >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"JBIC >> <b>Known projects financed:<\/b> Quang Ninh Combined Cycle power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"LBW >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Hai Lang power station, O Mon Power Complex unit 2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"OCBC Bank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"SMBC >> <b>Known projects financed:<\/b> Quang Ninh Combined Cycle power station",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Vietnam",
+    "Financier":"Vietcombank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
@@ -1405,128 +1501,32 @@
   },
   {
     "Country":"Vietnam",
-    "Financier":"Actis Investment Fund >> <b>Known projects financed:<\/b> Cong Thanh power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Citi >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Commerzbank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Development Finance Corporation >> <b>Known projects financed:<\/b> Son My II power station units 1-3",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"DZ Bank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Exim Bank >> <b>Known projects financed:<\/b> Son My II power station units 1-3",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"ING >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"JBIC >> <b>Known projects financed:<\/b> Quang Ninh Combined Cycle power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"LBW >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Hai Lang power station, O Mon Power Complex unit 2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"OCBC Bank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"SMBC >> <b>Known projects financed:<\/b> Quang Ninh Combined Cycle power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Vietcombank >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"Unknown\/unspecified"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"EVN >> <b>Known projects financed:<\/b> O Mon Power Complex units 3-4",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$692"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Tokyo Gas >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2",
+    "Financier":"British Petroleum  >> <b>Known projects financed:<\/b> Cong Thanh power station",
     "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"$59.80"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"Truong Thanh Vietnam Group JSC >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2",
+    "Financier":"General Electric >> <b>Known projects financed:<\/b> Cong Thanh power station",
     "Debt or Equity":"Unknown",
-    "Known project finance, million $US":"$44.85"
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"Kyushu Electric Power >> <b>Known projects financed:<\/b> Thai Binh Combined Cycle power station units 1-2, Son My I power station",
-    "Debt or Equity":"Equity, Unknown",
-    "Known project finance, million $US":"$44.85"
+    "Financier":"IFC >> <b>Known projects financed:<\/b> Chan May power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"Asian Development Bank >> <b>Known projects financed:<\/b> O Mon Power Complex unit 4, Quang Ninh Combined Cycle power station",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$309.89"
+    "Financier":"US DFC >> <b>Known projects financed:<\/b> Chan May power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"SACE >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$100"
-  },
-  {
-    "Country":"Vietnam",
-    "Financier":"Sumitomo Mitsubishi Banking Corporation  >> <b>Known projects financed:<\/b> Nhon Trach power station units 3-4",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$100"
+    "Financier":"US Ex-Im >> <b>Known projects financed:<\/b> Chan May power station",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   }
 ]
