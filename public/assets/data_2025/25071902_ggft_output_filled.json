@@ -1,212 +1,374 @@
 [
   {
     "Country":"All",
-    "Financier":"AG&P LNG",
+    "Financier":"Atimonan One Energy >> <b>Known projects financed:<\/b> Atimonan LNG Terminal",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"CPC Corporation",
-    "Known project finance, million $US":"$2,592.0"
-  },
-  {
-    "Country":"All",
-    "Financier":"Export-Import Bank of\nKorea",
-    "Known project finance, million $US":"$175.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Green Marine Infra Fund",
+    "Financier":"China Development Bank >> <b>Known projects financed:<\/b> Sengkang LNG Units 1-4",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"GS Holdings",
-    "Known project finance, million $US":"$74.0"
-  },
-  {
-    "Country":"All",
-    "Financier":"Hai Linh Company",
+    "Financier":"Excelerate Energy >> <b>Known projects financed:<\/b> Filipinas LNG Gateway Project FSRU",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Hanyang Group",
-    "Known project finance, million $US":"$111.0"
-  },
-  {
-    "Country":"All",
-    "Financier":"Heungkuk Life Insurance Co., Ltd.",
+    "Financier":"FGEN LNG Corp >> <b>Known projects financed:<\/b> FGEN Batangas LNG Terminal",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Industrial Bank of Korea",
-    "Known project finance, million $US":"$198.2"
-  },
-  {
-    "Country":"All",
-    "Financier":"Korea National Oil Corp",
+    "Financier":"Industrial & Commercial Bank of China >> <b>Known projects financed:<\/b> Sengkang LNG Units 1-4",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Kyobo Life Insurance Co Ltd",
+    "Financier":"Samat LNG Corp >> <b>Known projects financed:<\/b> Mariveles LNG Terminal",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Land Bank of the Philippines",
-    "Known project finance, million $US":"$16.0"
-  },
-  {
-    "Country":"All",
-    "Financier":"National Credit Union Federation of Korea",
+    "Financier":"Shell >> <b>Known projects financed:<\/b> Tabangao FSRU",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Petronas",
+    "Financier":"Topline Energy >> <b>Known projects financed:<\/b> Filipinas LNG Gateway Project FSRU",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"POSCO International",
-    "Known project finance, million $US":"$306.0"
-  },
-  {
-    "Country":"All",
-    "Financier":"Saemaul Geumgo Central Association",
+    "Financier":"AG&P LNG >> <b>Known projects financed:<\/b> Cai Mep LNG Terminal",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Shinhan Bank",
+    "Financier":"Energy World Corporation >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"SK Gas",
+    "Financier":"Hai Linh Company >> <b>Known projects financed:<\/b> Cai Mep LNG Terminal",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Standard Chartered Bank",
-    "Known project finance, million $US":"$16.0"
+    "Financier":"KOGAS >> <b>Known projects financed:<\/b> Dangjin LNG Terminal I",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Tbc",
-    "Known project finance, million $US":"$1,000.0"
+    "Financier":"Korea National Oil Corp >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"All",
-    "Financier":"Unknown\/unspecified",
+    "Financier":"Petronas >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"SK Gas >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Green Marine Infra Fund >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Heungkuk Life Insurance Co., Ltd. >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Kyobo Life Insurance Co Ltd >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"National Credit Union Federation of Korea >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Saemaul Geumgo Central Association >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Shinhan Bank >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"GS Holdings >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$74"
+  },
+  {
+    "Country":"All",
+    "Financier":"POSCO International >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$306"
+  },
+  {
+    "Country":"All",
+    "Financier":"CPC Corporation >> <b>Known projects financed:<\/b> Taichung LNG Terminal Expansion Phase 2-3",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$2,592"
+  },
+  {
+    "Country":"All",
+    "Financier":"Industrial Bank of Korea >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$198.20"
+  },
+  {
+    "Country":"All",
+    "Financier":"Export-Import Bank of\nKorea >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$175.80"
+  },
+  {
+    "Country":"All",
+    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$16"
+  },
+  {
+    "Country":"All",
+    "Financier":"Standard Chartered Bank >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$16"
+  },
+  {
+    "Country":"All",
+    "Financier":"Hanyang Group >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$111"
+  },
+  {
+    "Country":"All",
+    "Financier":"Tbc >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$1,000"
+  },
+  {
+    "Country":"Indonesia",
+    "Financier":"China Development Bank >> <b>Known projects financed:<\/b> Sengkang LNG Units 1-4",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Indonesia",
+    "Financier":"Industrial & Commercial Bank of China >> <b>Known projects financed:<\/b> Sengkang LNG Units 1-4",
+    "Debt or Equity":"Unknown",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Malaysia",
-    "Financier":"Petronas",
+    "Financier":"Petronas >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Malaysia",
-    "Financier":"Tbc",
-    "Known project finance, million $US":"$1,000.0"
+    "Financier":"Tbc >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$1,000"
   },
   {
     "Country":"Philippines",
-    "Financier":"Land Bank of the Philippines",
-    "Known project finance, million $US":"$16.0"
+    "Financier":"Atimonan One Energy >> <b>Known projects financed:<\/b> Atimonan LNG Terminal",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Philippines",
-    "Financier":"Standard Chartered Bank",
-    "Known project finance, million $US":"$16.0"
+    "Financier":"Excelerate Energy >> <b>Known projects financed:<\/b> Filipinas LNG Gateway Project FSRU",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"FGEN LNG Corp >> <b>Known projects financed:<\/b> FGEN Batangas LNG Terminal",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Samat LNG Corp >> <b>Known projects financed:<\/b> Mariveles LNG Terminal",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Shell >> <b>Known projects financed:<\/b> Tabangao FSRU",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Topline Energy >> <b>Known projects financed:<\/b> Filipinas LNG Gateway Project FSRU",
+    "Debt or Equity":"Unknown",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Energy World Corporation >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$16"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Standard Chartered Bank >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$16"
   },
   {
     "Country":"South Korea",
-    "Financier":"Export-Import Bank of\nKorea",
-    "Known project finance, million $US":"$175.8"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"Green Marine Infra Fund",
+    "Financier":"KOGAS >> <b>Known projects financed:<\/b> Dangjin LNG Terminal I",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
-    "Financier":"GS Holdings",
-    "Known project finance, million $US":"$74.0"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"Hanyang Group",
-    "Known project finance, million $US":"$111.0"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"Heungkuk Life Insurance Co., Ltd.",
+    "Financier":"Korea National Oil Corp >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
-    "Financier":"Industrial Bank of Korea",
-    "Known project finance, million $US":"$198.2"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"Korea National Oil Corp",
+    "Financier":"SK Gas >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
-    "Financier":"Kyobo Life Insurance Co Ltd",
+    "Financier":"Green Marine Infra Fund >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
-    "Financier":"National Credit Union Federation of Korea",
+    "Financier":"Heungkuk Life Insurance Co., Ltd. >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
-    "Financier":"POSCO International",
-    "Known project finance, million $US":"$306.0"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"Saemaul Geumgo Central Association",
+    "Financier":"Kyobo Life Insurance Co Ltd >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
-    "Financier":"Shinhan Bank",
+    "Financier":"National Credit Union Federation of Korea >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
-    "Financier":"SK Gas",
+    "Financier":"Saemaul Geumgo Central Association >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"South Korea",
-    "Financier":"Unknown\/unspecified",
+    "Financier":"Shinhan Bank >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"GS Holdings >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$74"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"POSCO International >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$306"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"Industrial Bank of Korea >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$198.20"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"Export-Import Bank of\nKorea >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$175.80"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"Hanyang Group >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$111"
   },
   {
     "Country":"Taiwan",
-    "Financier":"CPC Corporation",
-    "Known project finance, million $US":"$2,592.0"
+    "Financier":"CPC Corporation >> <b>Known projects financed:<\/b> Taichung LNG Terminal Expansion Phase 2-3",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$2,592"
   },
   {
     "Country":"Vietnam",
-    "Financier":"AG&P LNG",
+    "Financier":"AG&P LNG >> <b>Known projects financed:<\/b> Cai Mep LNG Terminal",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   },
   {
     "Country":"Vietnam",
-    "Financier":"Hai Linh Company",
+    "Financier":"Hai Linh Company >> <b>Known projects financed:<\/b> Cai Mep LNG Terminal",
+    "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
   }
 ]
