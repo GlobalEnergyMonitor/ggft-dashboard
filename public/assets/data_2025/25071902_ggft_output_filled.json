@@ -1,48 +1,12 @@
 [
   {
     "Country":"All",
-    "Financier":"CPC Corporation >> <b>Known projects financed:<\/b> Taichung LNG Terminal Expansion Phase 2-3",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$2,592.0"
-  },
-  {
-    "Country":"Taiwan",
-    "Financier":"CPC Corporation >> <b>Known projects financed:<\/b> Taichung LNG Terminal Expansion Phase 2-3",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$2,592.0"
-  },
-  {
-    "Country":"All",
-    "Financier":"Tbc >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$1,000.0"
-  },
-  {
-    "Country":"Malaysia",
     "Financier":"Tbc >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$1,000.0"
   },
   {
     "Country":"All",
-    "Financier":"POSCO International >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$306.0"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"POSCO International >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$306.0"
-  },
-  {
-    "Country":"All",
-    "Financier":"Industrial Bank of Korea >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$198.2"
-  },
-  {
-    "Country":"South Korea",
     "Financier":"Industrial Bank of Korea >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$198.2"
@@ -54,36 +18,6 @@
     "Known project finance, million $US":"$175.8"
   },
   {
-    "Country":"South Korea",
-    "Financier":"Export-Import Bank of\nKorea >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$175.8"
-  },
-  {
-    "Country":"All",
-    "Financier":"Hanyang Group >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$111.0"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"Hanyang Group >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$111.0"
-  },
-  {
-    "Country":"All",
-    "Financier":"GS Holdings >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$74.0"
-  },
-  {
-    "Country":"South Korea",
-    "Financier":"GS Holdings >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
-    "Debt or Equity":"Equity",
-    "Known project finance, million $US":"$74.0"
-  },
-  {
     "Country":"All",
     "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
     "Debt or Equity":"Debt",
@@ -91,18 +25,6 @@
   },
   {
     "Country":"All",
-    "Financier":"Standard Chartered Bank >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$16.0"
-  },
-  {
-    "Country":"Philippines",
-    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
-    "Debt or Equity":"Debt",
-    "Known project finance, million $US":"$16.0"
-  },
-  {
-    "Country":"Philippines",
     "Financier":"Standard Chartered Bank >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$16.0"
@@ -148,6 +70,30 @@
     "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"All",
+    "Financier":"CPC Corporation >> <b>Known projects financed:<\/b> Taichung LNG Terminal Expansion Phase 2-3",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$2,592.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"POSCO International >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$306.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"Hanyang Group >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$111.0"
+  },
+  {
+    "Country":"All",
+    "Financier":"GS Holdings >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$74.0"
   },
   {
     "Country":"All",
@@ -253,9 +199,27 @@
   },
   {
     "Country":"Malaysia",
+    "Financier":"Tbc >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$1,000.0"
+  },
+  {
+    "Country":"Malaysia",
     "Financier":"Petronas >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$16.0"
+  },
+  {
+    "Country":"Philippines",
+    "Financier":"Standard Chartered Bank >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$16.0"
   },
   {
     "Country":"Philippines",
@@ -301,6 +265,18 @@
   },
   {
     "Country":"South Korea",
+    "Financier":"Industrial Bank of Korea >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$198.2"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"Export-Import Bank of\nKorea >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Debt or Equity":"Debt",
+    "Known project finance, million $US":"$175.8"
+  },
+  {
+    "Country":"South Korea",
     "Financier":"Green Marine Infra Fund >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"Unknown\/unspecified"
@@ -343,6 +319,24 @@
   },
   {
     "Country":"South Korea",
+    "Financier":"POSCO International >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$306.0"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"Hanyang Group >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$111.0"
+  },
+  {
+    "Country":"South Korea",
+    "Financier":"GS Holdings >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$74.0"
+  },
+  {
+    "Country":"South Korea",
     "Financier":"KOGAS >> <b>Known projects financed:<\/b> Dangjin LNG Terminal I",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
@@ -358,6 +352,12 @@
     "Financier":"SK Gas >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"Unknown\/unspecified"
+  },
+  {
+    "Country":"Taiwan",
+    "Financier":"CPC Corporation >> <b>Known projects financed:<\/b> Taichung LNG Terminal Expansion Phase 2-3",
+    "Debt or Equity":"Equity",
+    "Known project finance, million $US":"$2,592.0"
   },
   {
     "Country":"Vietnam",
