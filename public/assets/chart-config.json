@@ -73,8 +73,8 @@
     },
     "25071902": {
         "title": "Known LNG project finance",
-        "subtitle": "For financier information by country, please see the ",
-        "hyperlink": "data download",
+        "subtitle": "Data is sorted by project finance type (debt, equity, unknown), then known financing amount in descending order from most to least. Hover over financier name to see known projects financed. For information on individual financial transactions, see the ",
+        "hyperlink": "data download.",
         "url": "https://globalenergymonitor.org/projects/global-gas-finance-tracker/download-data/",
         "table": "Start year",
         "dataset": "25071902_ggft_output_filled",
@@ -84,8 +84,8 @@
     },
     "25071855": {
         "title": "Known gas plant project finance",
-        "subtitle": "For financier information by country, please see the ",
-        "hyperlink": "data download",
+        "subtitle": "Data is sorted by project finance type (debt, equity, unknown), then known financing amount in descending order from most to least. Hover over financier name to see known projects financed. For information on individual financial transactions, see the ",
+        "hyperlink": "data download.",
         "url": "https://globalenergymonitor.org/projects/global-gas-finance-tracker/download-data/",
         "table": "Start year",
         "dataset": "25071855_ggft_output_filled",
