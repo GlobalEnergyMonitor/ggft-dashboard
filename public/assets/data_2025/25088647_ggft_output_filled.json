@@ -22,12 +22,12 @@
   {
     "Country":"All",
     "Start year":2029,
-    "New gas capacity (MW)":26243.0
+    "New gas capacity (MW)":24615.0
   },
   {
     "Country":"All",
     "Start year":2030,
-    "New gas capacity (MW)":29014.6
+    "New gas capacity (MW)":28220.6
   },
   {
     "Country":"All",
@@ -702,12 +702,12 @@
   {
     "Country":"Mexico",
     "Start year":2029,
-    "New gas capacity (MW)":3397.0
+    "New gas capacity (MW)":1769.0
   },
   {
     "Country":"Mexico",
     "Start year":2030,
-    "New gas capacity (MW)":2522.0
+    "New gas capacity (MW)":1728.0
   },
   {
     "Country":"Mexico",

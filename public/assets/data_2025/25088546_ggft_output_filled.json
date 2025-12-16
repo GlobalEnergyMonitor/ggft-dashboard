@@ -2,7 +2,7 @@
   {
     "Country":"All",
     "Start year":2022,
-    "New LNG capacity (mtpa)":527.32
+    "New LNG capacity (mtpa)":1.0
   },
   {
     "Country":"All",
@@ -17,17 +17,17 @@
   {
     "Country":"All",
     "Start year":2025,
-    "New LNG capacity (mtpa)":128.3
+    "New LNG capacity (mtpa)":72.3
   },
   {
     "Country":"All",
     "Start year":2026,
-    "New LNG capacity (mtpa)":154.3
+    "New LNG capacity (mtpa)":26.55
   },
   {
     "Country":"All",
     "Start year":2027,
-    "New LNG capacity (mtpa)":74.37
+    "New LNG capacity (mtpa)":42.87
   },
   {
     "Country":"All",
@@ -37,12 +37,12 @@
   {
     "Country":"All",
     "Start year":2029,
-    "New LNG capacity (mtpa)":60.3
+    "New LNG capacity (mtpa)":7.5
   },
   {
     "Country":"All",
     "Start year":2030,
-    "New LNG capacity (mtpa)":49.1
+    "New LNG capacity (mtpa)":37.1
   },
   {
     "Country":"All",
@@ -52,7 +52,7 @@
   {
     "Country":"Australia",
     "Start year":2022,
-    "New LNG capacity (mtpa)":174.33
+    "New LNG capacity (mtpa)":1.0
   },
   {
     "Country":"Australia",
@@ -72,7 +72,7 @@
   {
     "Country":"Australia",
     "Start year":2026,
-    "New LNG capacity (mtpa)":110.0
+    "New LNG capacity (mtpa)":5.0
   },
   {
     "Country":"Australia",
@@ -87,7 +87,7 @@
   {
     "Country":"Australia",
     "Start year":2029,
-    "New LNG capacity (mtpa)":56.1
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Australia",
@@ -152,7 +152,7 @@
   {
     "Country":"Canada",
     "Start year":2022,
-    "New LNG capacity (mtpa)":254.85
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Canada",
@@ -167,7 +167,7 @@
   {
     "Country":"Canada",
     "Start year":2025,
-    "New LNG capacity (mtpa)":106.0
+    "New LNG capacity (mtpa)":50.0
   },
   {
     "Country":"Canada",
@@ -177,7 +177,7 @@
   {
     "Country":"Canada",
     "Start year":2027,
-    "New LNG capacity (mtpa)":33.6
+    "New LNG capacity (mtpa)":2.1
   },
   {
     "Country":"Canada",
@@ -187,12 +187,12 @@
   {
     "Country":"Canada",
     "Start year":2029,
-    "New LNG capacity (mtpa)":0.0
+    "New LNG capacity (mtpa)":3.3
   },
   {
     "Country":"Canada",
     "Start year":2030,
-    "New LNG capacity (mtpa)":28.0
+    "New LNG capacity (mtpa)":16.0
   },
   {
     "Country":"Canada",
@@ -402,7 +402,7 @@
   {
     "Country":"Mexico",
     "Start year":2022,
-    "New LNG capacity (mtpa)":98.14
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Mexico",
@@ -422,7 +422,7 @@
   {
     "Country":"Mexico",
     "Start year":2026,
-    "New LNG capacity (mtpa)":27.4
+    "New LNG capacity (mtpa)":4.65
   },
   {
     "Country":"Mexico",

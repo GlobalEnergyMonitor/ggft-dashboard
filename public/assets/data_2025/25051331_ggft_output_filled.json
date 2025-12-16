@@ -2,12 +2,12 @@
   {
     "Country":"All",
     "Status":"Proposed",
-    "Capacity (mtpa)":414.0
+    "Capacity (mtpa)":253.0
   },
   {
     "Country":"All",
     "Status":"Construction",
-    "Capacity (mtpa)":332.0
+    "Capacity (mtpa)":92.0
   },
   {
     "Country":"All",
@@ -17,22 +17,22 @@
   {
     "Country":"All",
     "Status":"Idle",
-    "Capacity (mtpa)":33.0
+    "Capacity (mtpa)":3.0
   },
   {
     "Country":"All",
     "Status":"Operating",
-    "Capacity (mtpa)":43.0
+    "Capacity (mtpa)":15.0
   },
   {
     "Country":"Australia",
     "Status":"Proposed",
-    "Capacity (mtpa)":174.33
+    "Capacity (mtpa)":25.7
   },
   {
     "Country":"Australia",
     "Status":"Construction",
-    "Capacity (mtpa)":114.33
+    "Capacity (mtpa)":9.33
   },
   {
     "Country":"Australia",
@@ -42,7 +42,7 @@
   {
     "Country":"Australia",
     "Status":"Idle",
-    "Capacity (mtpa)":33.3
+    "Capacity (mtpa)":3.7
   },
   {
     "Country":"Australia",
@@ -77,12 +77,12 @@
   {
     "Country":"Canada",
     "Status":"Proposed",
-    "Capacity (mtpa)":55.15
+    "Capacity (mtpa)":43.15
   },
   {
     "Country":"Canada",
     "Status":"Construction",
-    "Capacity (mtpa)":131.7
+    "Capacity (mtpa)":19.4
   },
   {
     "Country":"Canada",
@@ -97,7 +97,7 @@
   {
     "Country":"Canada",
     "Status":"Operating",
-    "Capacity (mtpa)":42.0
+    "Capacity (mtpa)":14.0
   },
   {
     "Country":"Cambodia",
@@ -207,7 +207,7 @@
   {
     "Country":"Mexico",
     "Status":"Construction",
-    "Capacity (mtpa)":27.4
+    "Capacity (mtpa)":4.65
   },
   {
     "Country":"Mexico",
