@@ -1,1212 +1,1039 @@
 [
   {
-    "Financier Name":"Unknown\/unspecified",
     "Country":"ALL",
-    "Known Projects Financed":"LNG Canada Terminal",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> LNG Canada Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$2,000.0"
   },
   {
-    "Financier Name":"JBIC",
     "Country":"ALL",
-    "Known Projects Financed":"LNG Canada Terminal units 1-2",
+    "Financier":"JBIC >> <b>Known projects financed:<\/b> LNG Canada Terminal units 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$1,700.0"
   },
   {
-    "Financier Name":"Tbc",
     "Country":"ALL",
-    "Known Projects Financed":"Petronas ZFLNG Terminal",
+    "Financier":"Tbc >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$1,000.0"
   },
   {
-    "Financier Name":"Industrial Bank of Korea",
     "Country":"ALL",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Industrial Bank of Korea >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$198.2"
   },
   {
-    "Financier Name":"Export-Import Bank of\nKorea",
     "Country":"ALL",
-    "Known Projects Financed":"Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Export-Import Bank of\nKorea >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$175.8"
   },
   {
-    "Financier Name":"Land Bank of the Philippines",
     "Country":"ALL",
-    "Known Projects Financed":"Pagbilao Grande Island LNG Terminal",
+    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$16.0"
   },
   {
-    "Financier Name":"Standard Chartered Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Pagbilao Grande Island LNG Terminal",
+    "Financier":"Standard Chartered Bank >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$16.0"
   },
   {
-    "Financier Name":"Green Marine Infra Fund",
     "Country":"ALL",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal",
+    "Financier":"Green Marine Infra Fund >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Heungkuk Life Insurance Co., Ltd.",
     "Country":"ALL",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Heungkuk Life Insurance Co., Ltd. >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Kyobo Life Insurance Co Ltd",
     "Country":"ALL",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Kyobo Life Insurance Co Ltd >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"National Credit Union Federation of Korea",
     "Country":"ALL",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"National Credit Union Federation of Korea >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Saemaul Geumgo Central Association",
     "Country":"ALL",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Saemaul Geumgo Central Association >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Shinhan Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal",
+    "Financier":"Shinhan Bank >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Unknown\/unspecified",
     "Country":"ALL",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal, Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"ANZ",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"ANZ >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"ATB Financial",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"ATB Financial >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Banamex",
     "Country":"ALL",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Banamex >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Bank of China",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Bank of Montreal",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"Bank of Montreal >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Bank of Panhsin",
     "Country":"ALL",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Bank of Panhsin >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"BBVA",
     "Country":"ALL",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"BBVA >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Canadian Imperial Bank of Commerce",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Canadian Imperial Bank of Commerce >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Canadian Western Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Canadian Western Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"China Construction Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"China Construction Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"China Minsheng Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"China Minsheng Bank >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Credit Agricole",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Credit Agricole >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Deutsche Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Woodfibre LNG Terminal",
+    "Financier":"Deutsche Bank >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"DNB ASA",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"DNB ASA >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"DZ Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"DZ Bank >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Export Development Canada",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Export Development Canada >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Export-Import Bank of Korea",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Export-Import Bank of Korea >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"First Commercial Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"First Commercial Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Hana Financial Group",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"Hana Financial Group >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"HSBC",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"HSBC >> <b>Known projects financed:<\/b> Pluto LNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"ICBC",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"ICBC >> <b>Known projects financed:<\/b> Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"ING",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"ING >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Intesa Sanpaolo",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Intesa Sanpaolo >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Korea Development Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"Korea Development Bank >> <b>Known projects financed:<\/b> Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Mitsubishi UFJ",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"Mitsubishi UFJ >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Mizuho",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal, Cedar FLNG Terminal, Costa Azul LNG Terminal",
+    "Financier":"Mizuho >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal, Cedar FLNG Terminal, Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"MUFG",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"MUFG >> <b>Known projects financed:<\/b> Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"National Australia Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"National Australia Bank >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"National Bank of Canada",
     "Country":"ALL",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"National Bank of Canada >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Natixis",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal, Costa Azul LNG Terminal",
+    "Financier":"Natixis >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal, Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Nomura",
     "Country":"ALL",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Nomura >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Royal Bank of Canada",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"Royal Bank of Canada >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Santander",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Santander >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Scotiabank",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal, Costa Azul LNG Terminal",
+    "Financier":"Scotiabank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"SMBC",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
+    "Financier":"SMBC >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Societe Generale",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Societe Generale >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Standard Chartered",
     "Country":"ALL",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
+    "Financier":"Standard Chartered >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Sumitomo Mitsui Banking Corporation",
     "Country":"ALL",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Sumitomo Mitsui Banking Corporation >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Toronto-Dominion Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Toronto-Dominion Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"United Overseas Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"United Overseas Bank >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Westpac",
     "Country":"ALL",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Westpac >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"CPC Corporation",
     "Country":"ALL",
-    "Known Projects Financed":"Taichung LNG Terminal Expansion Phase 2-3",
+    "Financier":"CPC Corporation >> <b>Known projects financed:<\/b> Taichung LNG Terminal Expansion Phase 2-3",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$2,592.0"
   },
   {
-    "Financier Name":"TotalEnergies SE",
     "Country":"ALL",
-    "Known Projects Financed":"Ksi Lisims FLNG Terminal, Costa Azul LNG Terminal",
+    "Financier":"TotalEnergies SE >> <b>Known projects financed:<\/b> Ksi Lisims FLNG Terminal, Costa Azul LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$500.0"
   },
   {
-    "Financier Name":"POSCO International",
     "Country":"ALL",
-    "Known Projects Financed":"Gwangyang LNG Terminal Phase II",
+    "Financier":"POSCO International >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$306.0"
   },
   {
-    "Financier Name":"Blackstone Energy Transition Partners et al",
     "Country":"ALL",
-    "Known Projects Financed":"Ksi Lisims FLNG Terminal",
+    "Financier":"Blackstone Energy Transition Partners et al >> <b>Known projects financed:<\/b> Ksi Lisims FLNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$150.0"
   },
   {
-    "Financier Name":"Hanyang Group",
     "Country":"ALL",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal",
+    "Financier":"Hanyang Group >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$111.0"
   },
   {
-    "Financier Name":"GS Holdings",
     "Country":"ALL",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal",
+    "Financier":"GS Holdings >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$74.0"
   },
   {
-    "Financier Name":"AG&P LNG",
     "Country":"ALL",
-    "Known Projects Financed":"Cai Mep LNG Terminal",
+    "Financier":"AG&P LNG >> <b>Known projects financed:<\/b> Cai Mep LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Energy World Corporation",
     "Country":"ALL",
-    "Known Projects Financed":"Pagbilao Grande Island LNG Terminal",
+    "Financier":"Energy World Corporation >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Hai Linh Company",
     "Country":"ALL",
-    "Known Projects Financed":"Cai Mep LNG Terminal",
+    "Financier":"Hai Linh Company >> <b>Known projects financed:<\/b> Cai Mep LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"KOGAS",
     "Country":"ALL",
-    "Known Projects Financed":"Dangjin LNG Terminal I",
+    "Financier":"KOGAS >> <b>Known projects financed:<\/b> Dangjin LNG Terminal I",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Korea National Oil Corp",
     "Country":"ALL",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Korea National Oil Corp >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Petronas",
     "Country":"ALL",
-    "Known Projects Financed":"Petronas ZFLNG Terminal",
+    "Financier":"Petronas >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"SK Gas",
     "Country":"ALL",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"SK Gas >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Enbridge",
     "Country":"ALL",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Enbridge >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Nebula Energy",
     "Country":"ALL",
-    "Known Projects Financed":"Outer Harbor FSRU",
+    "Financier":"Nebula Energy >> <b>Known projects financed:<\/b> Outer Harbor FSRU",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Pacific Energy",
     "Country":"ALL",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Pacific Energy >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Sempra Energy",
     "Country":"ALL",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Sempra Energy >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Government of Canada",
     "Country":"ALL",
-    "Known Projects Financed":"LNG Canada Terminal units 1-2",
+    "Financier":"Government of Canada >> <b>Known projects financed:<\/b> LNG Canada Terminal units 1-2",
     "Debt or Equity":"Grant",
     "Known project finance, million $US":"$400.0"
   },
   {
-    "Financier Name":"Atimonan One Energy",
     "Country":"ALL",
-    "Known Projects Financed":"Atimonan LNG Terminal",
+    "Financier":"Atimonan One Energy >> <b>Known projects financed:<\/b> Atimonan LNG Terminal",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"China Development Bank",
     "Country":"ALL",
-    "Known Projects Financed":"Sengkang LNG Units 1-4",
+    "Financier":"China Development Bank >> <b>Known projects financed:<\/b> Sengkang LNG Units 1-4",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Excelerate Energy",
     "Country":"ALL",
-    "Known Projects Financed":"Filipinas LNG Gateway Project FSRU",
+    "Financier":"Excelerate Energy >> <b>Known projects financed:<\/b> Filipinas LNG Gateway Project FSRU",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"FGEN LNG Corp",
     "Country":"ALL",
-    "Known Projects Financed":"FGEN Batangas LNG Terminal",
+    "Financier":"FGEN LNG Corp >> <b>Known projects financed:<\/b> FGEN Batangas LNG Terminal",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Industrial & Commercial Bank of China",
     "Country":"ALL",
-    "Known Projects Financed":"Sengkang LNG Units 1-4",
+    "Financier":"Industrial & Commercial Bank of China >> <b>Known projects financed:<\/b> Sengkang LNG Units 1-4",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Samat LNG Corp",
     "Country":"ALL",
-    "Known Projects Financed":"Mariveles LNG Terminal",
+    "Financier":"Samat LNG Corp >> <b>Known projects financed:<\/b> Mariveles LNG Terminal",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Shell",
     "Country":"ALL",
-    "Known Projects Financed":"Tabangao FSRU",
+    "Financier":"Shell >> <b>Known projects financed:<\/b> Tabangao FSRU",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Topline Energy",
     "Country":"ALL",
-    "Known Projects Financed":"Filipinas LNG Gateway Project FSRU",
+    "Financier":"Topline Energy >> <b>Known projects financed:<\/b> Filipinas LNG Gateway Project FSRU",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"ANZ",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"ANZ >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Bank of China",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Credit Agricole",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Credit Agricole >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Deutsche Bank",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"Deutsche Bank >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"DNB ASA",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"DNB ASA >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"DZ Bank",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"DZ Bank >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Hana Financial Group",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"Hana Financial Group >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"HSBC",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"HSBC >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"ICBC",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"ICBC >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Intesa Sanpaolo",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Intesa Sanpaolo >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Korea Development Bank",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Korea Development Bank >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Mitsubishi UFJ",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier":"Mitsubishi UFJ >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project)",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Mizuho",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
+    "Financier":"Mizuho >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"MUFG",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"MUFG >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"National Australia Bank",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"National Australia Bank >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Natixis",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
+    "Financier":"Natixis >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Santander",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Santander >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"SMBC",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
+    "Financier":"SMBC >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Societe Generale",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Societe Generale >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Standard Chartered",
     "Country":"Australia",
-    "Known Projects Financed":"Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
+    "Financier":"Standard Chartered >> <b>Known projects financed:<\/b> Darwin LNG Terminal (Train 1 Life extension project), Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"United Overseas Bank",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"United Overseas Bank >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Westpac",
     "Country":"Australia",
-    "Known Projects Financed":"Pluto LNG Terminal",
+    "Financier":"Westpac >> <b>Known projects financed:<\/b> Pluto LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Nebula Energy",
     "Country":"Australia",
-    "Known Projects Financed":"Outer Harbor FSRU",
+    "Financier":"Nebula Energy >> <b>Known projects financed:<\/b> Outer Harbor FSRU",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Unknown\/unspecified",
     "Country":"Canada",
-    "Known Projects Financed":"LNG Canada Terminal",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> LNG Canada Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$2,000.0"
   },
   {
-    "Financier Name":"JBIC",
     "Country":"Canada",
-    "Known Projects Financed":"LNG Canada Terminal units 1-2",
+    "Financier":"JBIC >> <b>Known projects financed:<\/b> LNG Canada Terminal units 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$1,700.0"
   },
   {
-    "Financier Name":"ATB Financial",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"ATB Financial >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Bank of China",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"Bank of China >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Bank of Montreal",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"Bank of Montreal >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Bank of Panhsin",
     "Country":"Canada",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Bank of Panhsin >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Canadian Imperial Bank of Commerce",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Canadian Imperial Bank of Commerce >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Canadian Western Bank",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Canadian Western Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"China Construction Bank",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"China Construction Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"China Minsheng Bank",
     "Country":"Canada",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"China Minsheng Bank >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Deutsche Bank",
     "Country":"Canada",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Deutsche Bank >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Export Development Canada",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Export Development Canada >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Export-Import Bank of Korea",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Export-Import Bank of Korea >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"First Commercial Bank",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"First Commercial Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"HSBC",
     "Country":"Canada",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"HSBC >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"ICBC",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"ICBC >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"ING",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"ING >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Korea Development Bank",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Korea Development Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Mizuho",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Mizuho >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"MUFG",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"MUFG >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"National Bank of Canada",
     "Country":"Canada",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"National Bank of Canada >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Nomura",
     "Country":"Canada",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Nomura >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Royal Bank of Canada",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier":"Royal Bank of Canada >> <b>Known projects financed:<\/b> Cedar FLNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Scotiabank",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Scotiabank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Toronto-Dominion Bank",
     "Country":"Canada",
-    "Known Projects Financed":"Cedar FLNG Terminal",
+    "Financier":"Toronto-Dominion Bank >> <b>Known projects financed:<\/b> Cedar FLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"TotalEnergies",
     "Country":"Canada",
-    "Known Projects Financed":"Ksi Lisims FLNG Terminal",
+    "Financier":"TotalEnergies >> <b>Known projects financed:<\/b> Ksi Lisims FLNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$500.0"
   },
   {
-    "Financier Name":"Blackstone Energy Transition Partners et al",
     "Country":"Canada",
-    "Known Projects Financed":"Ksi Lisims FLNG Terminal",
+    "Financier":"Blackstone Energy Transition Partners et al >> <b>Known projects financed:<\/b> Ksi Lisims FLNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$150.0"
   },
   {
-    "Financier Name":"Enbridge",
     "Country":"Canada",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Enbridge >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Pacific Energy",
     "Country":"Canada",
-    "Known Projects Financed":"Woodfibre LNG Terminal",
+    "Financier":"Pacific Energy >> <b>Known projects financed:<\/b> Woodfibre LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Government of Canada",
     "Country":"Canada",
-    "Known Projects Financed":"LNG Canada Terminal units 1-2",
+    "Financier":"Government of Canada >> <b>Known projects financed:<\/b> LNG Canada Terminal units 1-2",
     "Debt or Equity":"Grant",
     "Known project finance, million $US":"$400.0"
   },
   {
-    "Financier Name":"China Development Bank",
     "Country":"Indonesia",
-    "Known Projects Financed":"Sengkang LNG Units 1-4",
+    "Financier":"China Development Bank >> <b>Known projects financed:<\/b> Sengkang LNG Units 1-4",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Industrial & Commercial Bank of China",
     "Country":"Indonesia",
-    "Known Projects Financed":"Sengkang LNG Units 1-4",
+    "Financier":"Industrial & Commercial Bank of China >> <b>Known projects financed:<\/b> Sengkang LNG Units 1-4",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Tbc",
     "Country":"Malaysia",
-    "Known Projects Financed":"Petronas ZFLNG Terminal",
+    "Financier":"Tbc >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$1,000.0"
   },
   {
-    "Financier Name":"Petronas",
     "Country":"Malaysia",
-    "Known Projects Financed":"Petronas ZFLNG Terminal",
+    "Financier":"Petronas >> <b>Known projects financed:<\/b> Petronas ZFLNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Banamex",
     "Country":"Mexico",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Banamex >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"BBVA",
     "Country":"Mexico",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"BBVA >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Mizuho",
     "Country":"Mexico",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Mizuho >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Natixis",
     "Country":"Mexico",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Natixis >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Scotiabank",
     "Country":"Mexico",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Scotiabank >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Sumitomo Mitsui Banking Corporation",
     "Country":"Mexico",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Sumitomo Mitsui Banking Corporation >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Sempra Energy",
     "Country":"Mexico",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"Sempra Energy >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"TotalEnergies SE",
     "Country":"Mexico",
-    "Known Projects Financed":"Costa Azul LNG Terminal",
+    "Financier":"TotalEnergies SE >> <b>Known projects financed:<\/b> Costa Azul LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Land Bank of the Philippines",
     "Country":"Philippines ",
-    "Known Projects Financed":"Pagbilao Grande Island LNG Terminal",
+    "Financier":"Land Bank of the Philippines >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$16.0"
   },
   {
-    "Financier Name":"Standard Chartered Bank",
     "Country":"Philippines ",
-    "Known Projects Financed":"Pagbilao Grande Island LNG Terminal",
+    "Financier":"Standard Chartered Bank >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$16.0"
   },
   {
-    "Financier Name":"Energy World Corporation",
     "Country":"Philippines ",
-    "Known Projects Financed":"Pagbilao Grande Island LNG Terminal",
+    "Financier":"Energy World Corporation >> <b>Known projects financed:<\/b> Pagbilao Grande Island LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Atimonan One Energy",
     "Country":"Philippines ",
-    "Known Projects Financed":"Atimonan LNG Terminal",
+    "Financier":"Atimonan One Energy >> <b>Known projects financed:<\/b> Atimonan LNG Terminal",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Excelerate Energy",
     "Country":"Philippines ",
-    "Known Projects Financed":"Filipinas LNG Gateway Project FSRU",
+    "Financier":"Excelerate Energy >> <b>Known projects financed:<\/b> Filipinas LNG Gateway Project FSRU",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"FGEN LNG Corp",
     "Country":"Philippines ",
-    "Known Projects Financed":"FGEN Batangas LNG Terminal",
+    "Financier":"FGEN LNG Corp >> <b>Known projects financed:<\/b> FGEN Batangas LNG Terminal",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Samat LNG Corp",
     "Country":"Philippines ",
-    "Known Projects Financed":"Mariveles LNG Terminal",
+    "Financier":"Samat LNG Corp >> <b>Known projects financed:<\/b> Mariveles LNG Terminal",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Shell",
     "Country":"Philippines ",
-    "Known Projects Financed":"Tabangao FSRU",
+    "Financier":"Shell >> <b>Known projects financed:<\/b> Tabangao FSRU",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Topline Energy",
     "Country":"Philippines ",
-    "Known Projects Financed":"Filipinas LNG Gateway Project FSRU",
+    "Financier":"Topline Energy >> <b>Known projects financed:<\/b> Filipinas LNG Gateway Project FSRU",
     "Debt or Equity":"Unknown",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Industrial Bank of Korea",
     "Country":"South Korea",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Industrial Bank of Korea >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$198.2"
   },
   {
-    "Financier Name":"Export-Import Bank of\nKorea",
     "Country":"South Korea",
-    "Known Projects Financed":"Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Export-Import Bank of\nKorea >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II, Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$175.8"
   },
   {
-    "Financier Name":"Green Marine Infra Fund",
     "Country":"South Korea",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal",
+    "Financier":"Green Marine Infra Fund >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Heungkuk Life Insurance Co., Ltd.",
     "Country":"South Korea",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Heungkuk Life Insurance Co., Ltd. >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Kyobo Life Insurance Co Ltd",
     "Country":"South Korea",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Kyobo Life Insurance Co Ltd >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"National Credit Union Federation of Korea",
     "Country":"South Korea",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"National Credit Union Federation of Korea >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Saemaul Geumgo Central Association",
     "Country":"South Korea",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Saemaul Geumgo Central Association >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Shinhan Bank",
     "Country":"South Korea",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal",
+    "Financier":"Shinhan Bank >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Unknown\/unspecified",
     "Country":"South Korea",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal, Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Unknown\/unspecified >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal, Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Debt",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"POSCO International",
     "Country":"South Korea",
-    "Known Projects Financed":"Gwangyang LNG Terminal Phase II",
+    "Financier":"POSCO International >> <b>Known projects financed:<\/b> Gwangyang LNG Terminal Phase II",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$306.0"
   },
   {
-    "Financier Name":"Hanyang Group",
     "Country":"South Korea",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal",
+    "Financier":"Hanyang Group >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$111.0"
   },
   {
-    "Financier Name":"GS Holdings",
     "Country":"South Korea",
-    "Known Projects Financed":"Northeast Asia LNG Hub Terminal",
+    "Financier":"GS Holdings >> <b>Known projects financed:<\/b> Northeast Asia LNG Hub Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$74.0"
   },
   {
-    "Financier Name":"KOGAS",
     "Country":"South Korea",
-    "Known Projects Financed":"Dangjin LNG Terminal I",
+    "Financier":"KOGAS >> <b>Known projects financed:<\/b> Dangjin LNG Terminal I",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Korea National Oil Corp",
     "Country":"South Korea",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"Korea National Oil Corp >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"SK Gas",
     "Country":"South Korea",
-    "Known Projects Financed":"Ulsan LNG Terminal Phase 1-2",
+    "Financier":"SK Gas >> <b>Known projects financed:<\/b> Ulsan LNG Terminal Phase 1-2",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"CPC Corporation",
     "Country":"Taiwan",
-    "Known Projects Financed":"Taichung LNG Terminal Expansion Phase 2-3",
+    "Financier":"CPC Corporation >> <b>Known projects financed:<\/b> Taichung LNG Terminal Expansion Phase 2-3",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$2,592.0"
   },
   {
-    "Financier Name":"AG&P LNG",
     "Country":"Vietnam",
-    "Known Projects Financed":"Cai Mep LNG Terminal",
+    "Financier":"AG&P LNG >> <b>Known projects financed:<\/b> Cai Mep LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   },
   {
-    "Financier Name":"Hai Linh Company",
     "Country":"Vietnam",
-    "Known Projects Financed":"Cai Mep LNG Terminal",
+    "Financier":"Hai Linh Company >> <b>Known projects financed:<\/b> Cai Mep LNG Terminal",
     "Debt or Equity":"Equity",
     "Known project finance, million $US":"$0.0"
   }
