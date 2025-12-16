@@ -1,6 +1,21 @@
 [
   {
     "Country":"All",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"All",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"All",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"All",
     "Start year":2025,
     "New LNG capacity (mtpa)":19.3
   },
@@ -35,14 +50,79 @@
     "New LNG capacity (mtpa)":11.6
   },
   {
+    "Country":"Australia",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":174.33
+  },
+  {
+    "Country":"Australia",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":11.4
+  },
+  {
+    "Country":"Australia",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":3.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2025,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2026,
+    "New LNG capacity (mtpa)":110.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2027,
+    "New LNG capacity (mtpa)":4.33
+  },
+  {
+    "Country":"Australia",
+    "Start year":2028,
+    "New LNG capacity (mtpa)":4.7
+  },
+  {
+    "Country":"Australia",
+    "Start year":2029,
+    "New LNG capacity (mtpa)":56.1
+  },
+  {
+    "Country":"Australia",
+    "Start year":2030,
+    "New LNG capacity (mtpa)":6.6
+  },
+  {
+    "Country":"Australia",
+    "Start year":2031,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Bangladesh",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Bangladesh",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Bangladesh",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
     "Country":"Bangladesh",
     "Start year":2025,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Bangladesh",
     "Start year":2026,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Bangladesh",
@@ -57,17 +137,82 @@
   {
     "Country":"Bangladesh",
     "Start year":2029,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Bangladesh",
     "Start year":2030,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Bangladesh",
     "Start year":2031,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":254.85
+  },
+  {
+    "Country":"Canada",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2025,
+    "New LNG capacity (mtpa)":106.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2026,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2027,
+    "New LNG capacity (mtpa)":33.6
+  },
+  {
+    "Country":"Canada",
+    "Start year":2028,
+    "New LNG capacity (mtpa)":3.15
+  },
+  {
+    "Country":"Canada",
+    "Start year":2029,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2030,
+    "New LNG capacity (mtpa)":28.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2031,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Cambodia",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Cambodia",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Cambodia",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Cambodia",
@@ -102,6 +247,21 @@
   {
     "Country":"Cambodia",
     "Start year":2031,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Indonesia",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Indonesia",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Indonesia",
+    "Start year":2024,
     "New LNG capacity (mtpa)":0.0
   },
   {
@@ -117,17 +277,17 @@
   {
     "Country":"Indonesia",
     "Start year":2027,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Indonesia",
     "Start year":2028,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Indonesia",
     "Start year":2029,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Indonesia",
@@ -137,7 +297,22 @@
   {
     "Country":"Indonesia",
     "Start year":2031,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Japan",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Japan",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Japan",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Japan",
@@ -176,45 +351,125 @@
   },
   {
     "Country":"Malaysia",
-    "Start year":2025,
-    "New LNG capacity (mtpa)":"0.0"
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Malaysia",
-    "Start year":2026,
-    "New LNG capacity (mtpa)":"0.0"
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Malaysia",
-    "Start year":2027,
-    "New LNG capacity (mtpa)":2
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Malaysia",
-    "Start year":2028,
-    "New LNG capacity (mtpa)":"0.0"
-  },
-  {
-    "Country":"Malaysia",
-    "Start year":2029,
-    "New LNG capacity (mtpa)":"0.0"
-  },
-  {
-    "Country":"Malaysia",
-    "Start year":2030,
-    "New LNG capacity (mtpa)":"0.0"
-  },
-  {
-    "Country":"Malaysia",
-    "Start year":2031,
-    "New LNG capacity (mtpa)":"0.0"
-  },
-  {
-    "Country":"Myanmar",
     "Start year":2025,
     "New LNG capacity (mtpa)":0.0
   },
   {
+    "Country":"Malaysia",
+    "Start year":2026,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Malaysia",
+    "Start year":2027,
+    "New LNG capacity (mtpa)":2.0
+  },
+  {
+    "Country":"Malaysia",
+    "Start year":2028,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Malaysia",
+    "Start year":2029,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Malaysia",
+    "Start year":2030,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Malaysia",
+    "Start year":2031,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":98.14
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":2.8
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2025,
+    "New LNG capacity (mtpa)":3.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2026,
+    "New LNG capacity (mtpa)":27.4
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2027,
+    "New LNG capacity (mtpa)":14.14
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2028,
+    "New LNG capacity (mtpa)":15.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2029,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2030,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2031,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Myanmar",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Myanmar",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Myanmar",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Myanmar",
+    "Start year":2025,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
     "Country":"Myanmar",
     "Start year":2026,
     "New LNG capacity (mtpa)":0.0
@@ -242,6 +497,21 @@
   {
     "Country":"Myanmar",
     "Start year":2031,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Pakistan",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Pakistan",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Pakistan",
+    "Start year":2024,
     "New LNG capacity (mtpa)":0.0
   },
   {
@@ -281,18 +551,33 @@
   },
   {
     "Country":"Philippines",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Philippines",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Philippines",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Philippines",
     "Start year":2025,
-    "New LNG capacity (mtpa)":9
+    "New LNG capacity (mtpa)":9.0
   },
   {
     "Country":"Philippines",
     "Start year":2026,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Philippines",
     "Start year":2027,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Philippines",
@@ -302,57 +587,87 @@
   {
     "Country":"Philippines",
     "Start year":2029,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Philippines",
     "Start year":2030,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Philippines",
     "Start year":2031,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Singapore",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Singapore",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Singapore",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Singapore",
     "Start year":2025,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Singapore",
     "Start year":2026,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Singapore",
     "Start year":2027,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Singapore",
     "Start year":2028,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Singapore",
     "Start year":2029,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Singapore",
     "Start year":2030,
-    "New LNG capacity (mtpa)":5
+    "New LNG capacity (mtpa)":5.0
   },
   {
     "Country":"Singapore",
     "Start year":2031,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"South Korea",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"South Korea",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"South Korea",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"South Korea",
     "Start year":2025,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"South Korea",
@@ -367,22 +682,37 @@
   {
     "Country":"South Korea",
     "Start year":2028,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"South Korea",
     "Start year":2029,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"South Korea",
     "Start year":2030,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"South Korea",
     "Start year":2031,
     "New LNG capacity (mtpa)":11.6
+  },
+  {
+    "Country":"Taiwan",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Taiwan",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Taiwan",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Taiwan",
@@ -417,6 +747,21 @@
   {
     "Country":"Taiwan",
     "Start year":2031,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Thailand",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Thailand",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Thailand",
+    "Start year":2024,
     "New LNG capacity (mtpa)":0.0
   },
   {
@@ -427,32 +772,47 @@
   {
     "Country":"Thailand",
     "Start year":2026,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Thailand",
     "Start year":2027,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Thailand",
     "Start year":2028,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Thailand",
     "Start year":2029,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Thailand",
     "Start year":2030,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Thailand",
     "Start year":2031,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Vietnam",
+    "Start year":2022,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Vietnam",
+    "Start year":2023,
+    "New LNG capacity (mtpa)":0.0
+  },
+  {
+    "Country":"Vietnam",
+    "Start year":2024,
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Vietnam",
@@ -472,7 +832,7 @@
   {
     "Country":"Vietnam",
     "Start year":2028,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Vietnam",
@@ -482,11 +842,11 @@
   {
     "Country":"Vietnam",
     "Start year":2030,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   },
   {
     "Country":"Vietnam",
     "Start year":2031,
-    "New LNG capacity (mtpa)":"0.0"
+    "New LNG capacity (mtpa)":0.0
   }
 ]

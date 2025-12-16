@@ -2,82 +2,122 @@
   {
     "Country":"All",
     "Status":"Announced",
-    "Capacity (MW)":90633
+    "Capacity (MW)":107557.0
   },
   {
     "Country":"All",
     "Status":"Pre-construction",
-    "Capacity (MW)":63862
+    "Capacity (MW)":69433.0
   },
   {
     "Country":"All",
     "Status":"Construction",
-    "Capacity (MW)":22821
+    "Capacity (MW)":30690.0
   },
   {
     "Country":"All",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":27240
+    "Capacity (MW)":28559.0
+  },
+  {
+    "Country":"Australia",
+    "Status":"Announced",
+    "Capacity (MW)":3644.6
+  },
+  {
+    "Country":"Australia",
+    "Status":"Pre-construction",
+    "Capacity (MW)":714.6
+  },
+  {
+    "Country":"Australia",
+    "Status":"Construction",
+    "Capacity (MW)":1410.0
+  },
+  {
+    "Country":"Australia",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (MW)":329.4
   },
   {
     "Country":"Bangladesh",
     "Status":"Announced",
-    "Capacity (MW)":17010
+    "Capacity (MW)":17010.0
   },
   {
     "Country":"Bangladesh",
     "Status":"Pre-construction",
-    "Capacity (MW)":1250
+    "Capacity (MW)":1250.0
   },
   {
     "Country":"Bangladesh",
     "Status":"Construction",
-    "Capacity (MW)":2873
+    "Capacity (MW)":2873.0
   },
   {
     "Country":"Bangladesh",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":9365
+    "Capacity (MW)":9365.0
+  },
+  {
+    "Country":"Canada",
+    "Status":"Announced",
+    "Capacity (MW)":3120.0
+  },
+  {
+    "Country":"Canada",
+    "Status":"Pre-construction",
+    "Capacity (MW)":3594.0
+  },
+  {
+    "Country":"Canada",
+    "Status":"Construction",
+    "Capacity (MW)":370.0
+  },
+  {
+    "Country":"Canada",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (MW)":826.0
   },
   {
     "Country":"Cambodia",
     "Status":"Announced",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Cambodia",
     "Status":"Pre-construction",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Cambodia",
     "Status":"Construction",
-    "Capacity (MW)":900
+    "Capacity (MW)":900.0
   },
   {
     "Country":"Cambodia",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Indonesia",
     "Status":"Announced",
-    "Capacity (MW)":7820
+    "Capacity (MW)":7820.0
   },
   {
     "Country":"Indonesia",
     "Status":"Pre-construction",
-    "Capacity (MW)":1445
+    "Capacity (MW)":1445.0
   },
   {
     "Country":"Indonesia",
     "Status":"Construction",
-    "Capacity (MW)":2274
+    "Capacity (MW)":2274.0
   },
   {
     "Country":"Indonesia",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":3230
+    "Capacity (MW)":3230.0
   },
   {
     "Country":"Japan",
@@ -97,67 +137,87 @@
   {
     "Country":"Japan",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Malaysia",
     "Status":"Announced",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Malaysia",
     "Status":"Pre-construction",
-    "Capacity (MW)":3700
+    "Capacity (MW)":3700.0
   },
   {
     "Country":"Malaysia",
     "Status":"Construction",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Malaysia",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":1150
+    "Capacity (MW)":1150.0
+  },
+  {
+    "Country":"Mexico",
+    "Status":"Announced",
+    "Capacity (MW)":10159.1
+  },
+  {
+    "Country":"Mexico",
+    "Status":"Pre-construction",
+    "Capacity (MW)":1262.0
+  },
+  {
+    "Country":"Mexico",
+    "Status":"Construction",
+    "Capacity (MW)":6089.0
+  },
+  {
+    "Country":"Mexico",
+    "Status":"Shelved\/shelved-inferred",
+    "Capacity (MW)":164.0
   },
   {
     "Country":"Myanmar",
     "Status":"Announced",
-    "Capacity (MW)":1390
+    "Capacity (MW)":1390.0
   },
   {
     "Country":"Myanmar",
     "Status":"Pre-construction",
-    "Capacity (MW)":1450
+    "Capacity (MW)":1450.0
   },
   {
     "Country":"Myanmar",
     "Status":"Construction",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Myanmar",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":1888
+    "Capacity (MW)":1888.0
   },
   {
     "Country":"Pakistan",
     "Status":"Announced",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Pakistan",
     "Status":"Pre-construction",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Pakistan",
     "Status":"Construction",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Pakistan",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Philippines",
@@ -167,7 +227,7 @@
   {
     "Country":"Philippines",
     "Status":"Pre-construction",
-    "Capacity (MW)":7808
+    "Capacity (MW)":7808.0
   },
   {
     "Country":"Philippines",
@@ -177,106 +237,106 @@
   {
     "Country":"Philippines",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":9620
+    "Capacity (MW)":9620.0
   },
   {
     "Country":"Singapore",
     "Status":"Announced",
-    "Capacity (MW)":100
+    "Capacity (MW)":100.0
   },
   {
     "Country":"Singapore",
     "Status":"Pre-construction",
-    "Capacity (MW)":600
+    "Capacity (MW)":600.0
   },
   {
     "Country":"Singapore",
     "Status":"Construction",
-    "Capacity (MW)":2480
+    "Capacity (MW)":2480.0
   },
   {
     "Country":"Singapore",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"South Korea",
     "Status":"Announced",
-    "Capacity (MW)":15005
+    "Capacity (MW)":15005.0
   },
   {
     "Country":"South Korea",
     "Status":"Pre-construction",
-    "Capacity (MW)":1000
+    "Capacity (MW)":1000.0
   },
   {
     "Country":"South Korea",
     "Status":"Construction",
-    "Capacity (MW)":2290
+    "Capacity (MW)":2290.0
   },
   {
     "Country":"South Korea",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":287
+    "Capacity (MW)":287.0
   },
   {
     "Country":"Taiwan",
     "Status":"Announced",
-    "Capacity (MW)":1396
+    "Capacity (MW)":1396.0
   },
   {
     "Country":"Taiwan",
     "Status":"Pre-construction",
-    "Capacity (MW)":18542
+    "Capacity (MW)":18542.0
   },
   {
     "Country":"Taiwan",
     "Status":"Construction",
-    "Capacity (MW)":8192
+    "Capacity (MW)":8192.0
   },
   {
     "Country":"Taiwan",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   },
   {
     "Country":"Thailand",
     "Status":"Announced",
-    "Capacity (MW)":4850
+    "Capacity (MW)":4850.0
   },
   {
     "Country":"Thailand",
     "Status":"Pre-construction",
-    "Capacity (MW)":1240
+    "Capacity (MW)":1240.0
   },
   {
     "Country":"Thailand",
     "Status":"Construction",
-    "Capacity (MW)":80
+    "Capacity (MW)":80.0
   },
   {
     "Country":"Thailand",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":1700
+    "Capacity (MW)":1700.0
   },
   {
     "Country":"Vietnam",
     "Status":"Announced",
-    "Capacity (MW)":25690
+    "Capacity (MW)":25690.0
   },
   {
     "Country":"Vietnam",
     "Status":"Pre-construction",
-    "Capacity (MW)":22955
+    "Capacity (MW)":22955.0
   },
   {
     "Country":"Vietnam",
     "Status":"Construction",
-    "Capacity (MW)":780
+    "Capacity (MW)":780.0
   },
   {
     "Country":"Vietnam",
     "Status":"Shelved\/shelved-inferred",
-    "Capacity (MW)":0
+    "Capacity (MW)":0.0
   }
 ]

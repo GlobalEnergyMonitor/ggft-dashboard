@@ -2,32 +2,32 @@
   {
     "Country":"All",
     "Start year":2025,
-    "New gas capacity (MW)":19727.0
+    "New gas capacity (MW)":22683.9
   },
   {
     "Country":"All",
     "Start year":2026,
-    "New gas capacity (MW)":15493.2
+    "New gas capacity (MW)":19002.4
   },
   {
     "Country":"All",
     "Start year":2027,
-    "New gas capacity (MW)":21795.0
+    "New gas capacity (MW)":24178.1
   },
   {
     "Country":"All",
     "Start year":2028,
-    "New gas capacity (MW)":22773.0
+    "New gas capacity (MW)":26559.5
   },
   {
     "Country":"All",
     "Start year":2029,
-    "New gas capacity (MW)":20732.0
+    "New gas capacity (MW)":26243.0
   },
   {
     "Country":"All",
     "Start year":2030,
-    "New gas capacity (MW)":25738.6
+    "New gas capacity (MW)":29014.6
   },
   {
     "Country":"All",
@@ -83,6 +83,91 @@
     "Country":"All",
     "Start year":2041,
     "New gas capacity (MW)":2600.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2025,
+    "New gas capacity (MW)":750.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2026,
+    "New gas capacity (MW)":115.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2027,
+    "New gas capacity (MW)":711.2
+  },
+  {
+    "Country":"Australia",
+    "Start year":2028,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2029,
+    "New gas capacity (MW)":250.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2030,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2031,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2032,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2033,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2034,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2035,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2036,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2037,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2038,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2039,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2040,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Australia",
+    "Start year":2041,
+    "New gas capacity (MW)":0.0
   },
   {
     "Country":"Bangladesh",
@@ -168,6 +253,91 @@
     "Country":"Bangladesh",
     "Start year":2041,
     "New gas capacity (MW)":2600.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2025,
+    "New gas capacity (MW)":900.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2026,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2027,
+    "New gas capacity (MW)":540.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2028,
+    "New gas capacity (MW)":980.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2029,
+    "New gas capacity (MW)":1864.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2030,
+    "New gas capacity (MW)":754.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2031,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2032,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2033,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2034,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2035,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2036,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2037,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2038,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2039,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2040,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Canada",
+    "Start year":2041,
+    "New gas capacity (MW)":0.0
   },
   {
     "Country":"Cambodia",
@@ -506,6 +676,91 @@
   },
   {
     "Country":"Malaysia",
+    "Start year":2041,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2025,
+    "New gas capacity (MW)":1306.9
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2026,
+    "New gas capacity (MW)":3394.2
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2027,
+    "New gas capacity (MW)":1131.9
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2028,
+    "New gas capacity (MW)":2806.5
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2029,
+    "New gas capacity (MW)":3397.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2030,
+    "New gas capacity (MW)":2522.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2031,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2032,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2033,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2034,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2035,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2036,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2037,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2038,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2039,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
+    "Start year":2040,
+    "New gas capacity (MW)":0.0
+  },
+  {
+    "Country":"Mexico",
     "Start year":2041,
     "New gas capacity (MW)":0.0
   },

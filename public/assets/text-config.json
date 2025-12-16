@@ -1,6 +1,6 @@
 {
   "title": "Explore data in the Global Gas Finance Tracker",
-  "footer": "All data comes from GEM's [Global Gas Finance Tracker](https://globalenergymonitor.org/projects/global-gas-finance-tracker/), last updated in September 2025. The Gas Finance Tracker is a dataset of financial transactions to in-development LNG terminals and gas-fired power plants. The tracker includes information on project financiers, transaction amounts, financial institutions, financing status, dates of financial close, and more. The initial data release covers 13 East and Southeast Asian countries: Bangladesh, Cambodia, Indonesia, Japan, Malaysia, Myanmar, Pakistan, the Philippines, Singapore, South Korea, Taiwan, Thailand, and Vietnam.",
+  "footer": "All data comes from GEM's [Global Gas Finance Tracker](https://globalenergymonitor.org/projects/global-gas-finance-tracker/), last updated in December 2025. The Gas Finance Tracker is a dataset of financial transactions to in-development LNG terminals and gas-fired power plants. The tracker includes information on project financiers, transaction amounts, financial institutions, financing status, dates of financial close, and more. The data release covers 13 East and Southeast Asian countries, 2 North American countries, and 1 country in Oceania: Australia, Bangladesh, Canada, Cambodia, Indonesia, Japan, Malaysia, Mexico, Myanmar, Pakistan, the Philippines, Singapore, South Korea, Taiwan, Thailand, and Vietnam.",
   "dropdown_label": "Select a Country: ",
   "no_data": "No data available for {{selected}}",
   "dropdown": [
@@ -8,9 +8,15 @@
       "Country": "All",
       "overall_summary": " "
     },    
+    { "Country": "Australia",
+      "overall_summary": "Most of Australia’s gas power plants and LNG terminals are in early stages/pre-FID, with many showing delays, timeline revisions, or corporate statements that FID has not yet been obtained. In some cases, however, budgeted government and bank financing has been identified for gas power plants as well as both domestic and Japanese financing for LNG terminals."
+    },
     {
       "Country": "Bangladesh",
       "overall_summary": "Project finance for proposed LNG import terminals remains opaque, as Bangladesh’s interim government scrapped deals with prospective LNG developers. In the power sector, prospective gas plant projects are in varying stages of development and financing."
+    },
+    { "Country": "Canada",
+      "overall_summary": "The majority of Canada’s gas power projects are in early stages and confirmed to be pre-FID, with many of the new projects proposed to support new AI data center buildout. Many Canadian LNG projects remain pre-FID as well, but heavy involvement from domestic and international banks and ECAs has been identified among projects already receiving financing. "
     },
     {
       "Country": "Cambodia",
@@ -27,6 +33,9 @@
     {
       "Country": "Malaysia",
       "overall_summary": "Potential project financing has been discussed for a proposed LNG export terminal in construction, while financing for two gas power plant units–one potentially shelved–remains to be determined."
+    },
+    { "Country": "Mexico", 
+    "overall_summary": "Recent nationalization of Mexico’s gas power plant infrastructure has resulted in most power plant project financing stemming from national utility expenditures, rather than public-private deals with “traditional” FID dates. Meanwhile, all but one of Mexico’s planned LNG units remain pre-FID, with projects facing repeated delays and timeline revisions. "
     },
     {
       "Country": "Myanmar",
