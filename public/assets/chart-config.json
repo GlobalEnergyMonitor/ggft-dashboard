@@ -1,5 +1,5 @@
 {
-    "25051331": {
+    "28357045": {
         "title": "In-development LNG capacity by status",
         "subtitle": "LNG capacity (mtpa)",
         "x_axis": "Status",
@@ -11,7 +11,7 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "25051458": {
+    "28357048": {
         "title": "In-development gas plant by status",
         "subtitle": "Gas capacity (MW)",
         "x_axis": "Status",
@@ -23,7 +23,7 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "25088546": {
+    "28357023": {
         "title": "LNG capacity in development",
         "subtitle": "New LNG capacity (mtpa)",
         "x_axis": "Start year",
@@ -35,7 +35,7 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "25088647": {
+    "28357030": {
         "title": "Gas plant capacity in development",
         "subtitle": "New gas capacity (MW)",
         "x_axis": "Start year",
@@ -47,7 +47,7 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "25071902": {
+    "28357051": {
         "title": "Known LNG project finance",
         "subtitle": "Data is sorted by project finance type (debt, equity, unknown), then known financing amount in descending order from most to least. Hover over financier name to see known projects financed. For information on individual financial transactions, see the ",
         "hyperlink": "data download.",
@@ -58,7 +58,7 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "25071855": {
+    "28357056": {
         "title": "Known gas plant project finance",
         "subtitle": "Data is sorted by project finance type (debt, equity, unknown), then known financing amount in descending order from most to least. Hover over financier name to see known projects financed. For information on individual financial transactions, see the ",
         "hyperlink": "data download.",
