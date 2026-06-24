@@ -1,0 +1,902 @@
+[
+  {
+    "Country": "All",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 253.0
+  },
+  {
+    "Country": "All",
+    "Status": "Construction",
+    "Capacity (mtpa)": 92.0
+  },
+  {
+    "Country": "All",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 59.0
+  },
+  {
+    "Country": "All",
+    "Status": "Idle",
+    "Capacity (mtpa)": 3.0
+  },
+  {
+    "Country": "All",
+    "Status": "Operating",
+    "Capacity (mtpa)": 15.0
+  },
+  {
+    "Country": "Australia",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 25.7
+  },
+  {
+    "Country": "Australia",
+    "Status": "Construction",
+    "Capacity (mtpa)": 9.33
+  },
+  {
+    "Country": "Australia",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 1.0
+  },
+  {
+    "Country": "Australia",
+    "Status": "Idle",
+    "Capacity (mtpa)": 3.7
+  },
+  {
+    "Country": "Australia",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bangladesh",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 11.25
+  },
+  {
+    "Country": "Bangladesh",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bangladesh",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bangladesh",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bangladesh",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Canada",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 43.15
+  },
+  {
+    "Country": "Canada",
+    "Status": "Construction",
+    "Capacity (mtpa)": 19.4
+  },
+  {
+    "Country": "Canada",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 26.0
+  },
+  {
+    "Country": "Canada",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Canada",
+    "Status": "Operating",
+    "Capacity (mtpa)": 14.0
+  },
+  {
+    "Country": "Cambodia",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Cambodia",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Cambodia",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 3.55
+  },
+  {
+    "Country": "Cambodia",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Cambodia",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Indonesia",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 25.6
+  },
+  {
+    "Country": "Indonesia",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.3
+  },
+  {
+    "Country": "Indonesia",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 4.0
+  },
+  {
+    "Country": "Indonesia",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Indonesia",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Japan",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Japan",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Japan",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Japan",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Japan",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Malaysia",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Malaysia",
+    "Status": "Construction",
+    "Capacity (mtpa)": 2.0
+  },
+  {
+    "Country": "Malaysia",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Malaysia",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Malaysia",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Mexico",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 67.94
+  },
+  {
+    "Country": "Mexico",
+    "Status": "Construction",
+    "Capacity (mtpa)": 4.65
+  },
+  {
+    "Country": "Mexico",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 1.4
+  },
+  {
+    "Country": "Mexico",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Mexico",
+    "Status": "Operating",
+    "Capacity (mtpa)": 1.4
+  },
+  {
+    "Country": "Myanmar",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Myanmar",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Myanmar",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Myanmar",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Myanmar",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Pakistan",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 13.02
+  },
+  {
+    "Country": "Pakistan",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Pakistan",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 7.3
+  },
+  {
+    "Country": "Pakistan",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Pakistan",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Philippines",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 16.4
+  },
+  {
+    "Country": "Philippines",
+    "Status": "Construction",
+    "Capacity (mtpa)": 7.4
+  },
+  {
+    "Country": "Philippines",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Philippines",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Philippines",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Singapore",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 5.0
+  },
+  {
+    "Country": "Singapore",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Singapore",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Singapore",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Singapore",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "South Korea",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 3.5
+  },
+  {
+    "Country": "South Korea",
+    "Status": "Construction",
+    "Capacity (mtpa)": 26.5
+  },
+  {
+    "Country": "South Korea",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "South Korea",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "South Korea",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Taiwan",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 25.3
+  },
+  {
+    "Country": "Taiwan",
+    "Status": "Construction",
+    "Capacity (mtpa)": 8.0
+  },
+  {
+    "Country": "Taiwan",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Taiwan",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Taiwan",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Thailand",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Thailand",
+    "Status": "Construction",
+    "Capacity (mtpa)": 10.8
+  },
+  {
+    "Country": "Thailand",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 7.0
+  },
+  {
+    "Country": "Thailand",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Thailand",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Vietnam",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 17.1
+  },
+  {
+    "Country": "Vietnam",
+    "Status": "Construction",
+    "Capacity (mtpa)": 4.5
+  },
+  {
+    "Country": "Vietnam",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 8.95
+  },
+  {
+    "Country": "Vietnam",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Vietnam",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Argentina",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Argentina",
+    "Status": "Idle",
+    "Capacity (mtpa)": 3.8
+  },
+  {
+    "Country": "Argentina",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Argentina",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Argentina",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 33.35
+  },
+  {
+    "Country": "Aruba",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Aruba",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Aruba",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Aruba",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Aruba",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bahamas",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bahamas",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bahamas",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bahamas",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bahamas",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bolivia",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bolivia",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bolivia",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bolivia",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Bolivia",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Brazil",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Brazil",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Brazil",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 23.09
+  },
+  {
+    "Country": "Brazil",
+    "Status": "Construction",
+    "Capacity (mtpa)": 3.76
+  },
+  {
+    "Country": "Brazil",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 23.31
+  },
+  {
+    "Country": "Chile",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Chile",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Chile",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 2.3
+  },
+  {
+    "Country": "Chile",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Chile",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 2.7
+  },
+  {
+    "Country": "Colombia",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Colombia",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Colombia",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Colombia",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Colombia",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 15.129999999999999
+  },
+  {
+    "Country": "Dominican Republic",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Status": "Construction",
+    "Capacity (mtpa)": 1.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Ecuador",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Ecuador",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Ecuador",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Ecuador",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Ecuador",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.38
+  },
+  {
+    "Country": "Guyana",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Guyana",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Guyana",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Guyana",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Guyana",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Honduras",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Honduras",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Honduras",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Honduras",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Honduras",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Jamaica",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Jamaica",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Jamaica",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Jamaica",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Jamaica",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Nicaragua",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Nicaragua",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Nicaragua",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Nicaragua",
+    "Status": "Construction",
+    "Capacity (mtpa)": 5.0
+  },
+  {
+    "Country": "Nicaragua",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Panama",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Panama",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Panama",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 1.1
+  },
+  {
+    "Country": "Panama",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Panama",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Peru",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Peru",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Peru",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Peru",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Peru",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Suriname",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Suriname",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Suriname",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Suriname",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Suriname",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 2.7
+  },
+  {
+    "Country": "Venezuela",
+    "Status": "Operating",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Venezuela",
+    "Status": "Idle",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Venezuela",
+    "Status": "Shelved/shelved-inferred",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Venezuela",
+    "Status": "Construction",
+    "Capacity (mtpa)": 0.0
+  },
+  {
+    "Country": "Venezuela",
+    "Status": "Proposed",
+    "Capacity (mtpa)": 0.0
+  }
+]
