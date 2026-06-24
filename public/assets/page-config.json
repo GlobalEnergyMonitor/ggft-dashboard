@@ -25,7 +25,7 @@
     },
 
     {
-        "id": "summary_3",
+        "id": "summary_2",
         "decimal_places": 2,
         "style": {
             "color": "#7F142A",
@@ -34,7 +34,7 @@
         }
     },
     {
-        "id": "summary_2",
+        "id": "summary_3",
         "decimal_places": 2,
         "style": {
             "color": "#065",
