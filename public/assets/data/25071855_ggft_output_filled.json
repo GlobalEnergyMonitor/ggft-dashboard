@@ -1813,13 +1813,7 @@
   },
   {
     "Country": "ALL",
-    "Financier": "FICDIE I >> <b>Known projects financed:</b> Manzanillo Energy power station, Manzanillo Gas & Power power station",
-    "Debt or Equity": "Debt",
-    "Known project finance, million $US": "Unknown/unspecified"
-  },
-  {
-    "Country": "ALL",
-    "Financier": "FICDIE I  >> <b>Known projects financed:</b> Siba power station",
+    "Financier": "FICDIE I >> <b>Known projects financed:</b> Manzanillo Energy power station, Manzanillo Gas & Power power station, Siba power station",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "Unknown/unspecified"
   },
@@ -2312,12 +2306,6 @@
   {
     "Country": "Dominican Republic",
     "Financier": "FICDIE I >> <b>Known projects financed:</b> Manzanillo Energy power station, Manzanillo Gas & Power power station",
-    "Debt or Equity": "Debt",
-    "Known project finance, million $US": "Unknown/unspecified"
-  },
-  {
-    "Country": "Dominican Republic",
-    "Financier": "FICDIE I  >> <b>Known projects financed:</b> Siba power station",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "Unknown/unspecified"
   },

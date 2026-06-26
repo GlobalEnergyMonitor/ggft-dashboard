@@ -223,13 +223,13 @@
   },
   {
     "Country": "ALL",
-    "Financier": "Korea Development Bank >> <b>Known projects financed:</b> Pluto LNG Terminal, Cedar FLNG Terminal, Woodfibre LNG Terminal",
+    "Financier": "Korea Development Bank >> <b>Known projects financed:</b> Cedar FLNG Terminal, Penco Lirquén FSRU, Pluto LNG Terminal, Woodfibre LNG Terminal",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "$0.0"
   },
   {
     "Country": "ALL",
-    "Financier": "Mitsubishi UFJ >> <b>Known projects financed:</b> Darwin LNG Terminal (Train 1 Life extension project)",
+    "Financier": "Mitsubishi UFJ >> <b>Known projects financed:</b> Darwin LNG Terminal (Train 1 Life extension project), Penco Lirquén FSRU",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "$0.0"
   },
@@ -283,7 +283,7 @@
   },
   {
     "Country": "ALL",
-    "Financier": "Scotiabank >> <b>Known projects financed:</b> Cedar FLNG Terminal, Costa Azul LNG Terminal",
+    "Financier": "Scotiabank >> <b>Known projects financed:</b> Cedar FLNG Terminal, Clifton Pier LNG Terminal, Costa Azul LNG Terminal",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "$0.0"
   },
@@ -307,7 +307,7 @@
   },
   {
     "Country": "ALL",
-    "Financier": "Sumitomo Mitsui Banking Corporation >> <b>Known projects financed:</b> Costa Azul LNG Terminal",
+    "Financier": "Sumitomo Mitsui Banking Corporation >> <b>Known projects financed:</b> Costa Azul LNG Terminal, Penco Lirquén FSRU",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "$0.0"
   },
@@ -1129,18 +1129,6 @@
   },
   {
     "Country": "ALL",
-    "Financier": "Korea Development Bank >> <b>Known projects financed:</b> Penco Lirquén FSRU",
-    "Debt or Equity": "Debt",
-    "Known project finance, million $US": "Unknown/unspecified"
-  },
-  {
-    "Country": "ALL",
-    "Financier": "Mitsubishi UFJ >> <b>Known projects financed:</b> Penco Lirquén FSRU",
-    "Debt or Equity": "Debt",
-    "Known project finance, million $US": "Unknown/unspecified"
-  },
-  {
-    "Country": "ALL",
     "Financier": "Private Export Funding Corporation (PEFCO) >> <b>Known projects financed:</b> Clifton Pier LNG Terminal",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "Unknown/unspecified"
@@ -1159,12 +1147,6 @@
   },
   {
     "Country": "ALL",
-    "Financier": "Scotiabank >> <b>Known projects financed:</b> Clifton Pier LNG Terminal",
-    "Debt or Equity": "Debt",
-    "Known project finance, million $US": "Unknown/unspecified"
-  },
-  {
-    "Country": "ALL",
     "Financier": "Siemens >> <b>Known projects financed:</b> Penco Lirquén FSRU",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "Unknown/unspecified"
@@ -1172,12 +1154,6 @@
   {
     "Country": "ALL",
     "Financier": "Societé Générale >> <b>Known projects financed:</b> Penco Lirquén FSRU",
-    "Debt or Equity": "Debt",
-    "Known project finance, million $US": "Unknown/unspecified"
-  },
-  {
-    "Country": "ALL",
-    "Financier": "Sumitomo Mitsui Banking Corporation >> <b>Known projects financed:</b> Penco Lirquén FSRU",
     "Debt or Equity": "Debt",
     "Known project finance, million $US": "Unknown/unspecified"
   },

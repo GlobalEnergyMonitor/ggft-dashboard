@@ -1,15 +1,15 @@
 [
   {
     "Country": "All",
-    "summary_1": "<span>{{385.41}} mtpa</span><br>in-development<br>LNG capacity",
+    "summary_1": "<span>503.03 mtpa</span><br>in-development<br>LNG capacity",
     "summary_1_color": "#bf532c",
-    "summary_2": "<span>{{227719.7}} MW</span><br>in-development<br> gas plant capacity",
+    "summary_2": "<span>284089.7 MW</span><br>in-development<br>gas plant capacity",
     "summary_2_color": "#761200",
-    "summary_3": "<span>${{44064.74}} </span><br>known project<br>financing for <br>LNG/gas (million USD)",
+    "summary_3": "<span>$62270.67M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
     "summary_3_color": "#f27d16",
-    "summ1data": 385.41,
-    "summ2data": 227719.7,
-    "summ3data": 44064.74
+    "summ1data": 503.03,
+    "summ2data": 284089.7,
+    "summ3data": 62270.67
   },
   {
     "Country": "Australia",
