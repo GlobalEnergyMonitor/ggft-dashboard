@@ -1,15 +1,15 @@
 [
   {
     "Country": "All",
-    "summary_1": "<span>503.03 mtpa</span><br>in-development<br>LNG capacity",
+    "summary_1": "<span>506.56 mtpa</span><br>in-development<br>LNG capacity",
     "summary_1_color": "#bf532c",
     "summary_2": "<span>284089.7 MW</span><br>in-development<br>gas plant capacity",
     "summary_2_color": "#761200",
-    "summary_3": "<span>$62270.67M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
+    "summary_3": "<span>$62089.4M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
     "summary_3_color": "#f27d16",
-    "summ1data": 503.03,
+    "summ1data": 506.56,
     "summ2data": 284089.7,
-    "summ3data": 62270.67
+    "summ3data": 62089.4
   },
   {
     "Country": "Australia",
@@ -219,12 +219,12 @@
     "Country": "Argentina",
     "summ1data": 37.15,
     "summ2data": 140.0,
-    "summ3data": 7302.0,
+    "summ3data": 7122.0,
     "summary_1": "<span>37.15 mtpa</span><br>in-development<br>LNG capacity",
     "summary_1_color": "#bf532c",
     "summary_2": "<span>140.0 MW</span><br>in-development<br>gas plant capacity",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>$7302.0M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
+    "summary_3": "<span>$7122.0M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
     "summary_3_color": "#761200"
   },
   {
@@ -267,12 +267,12 @@
     "Country": "Brazil",
     "summ1data": 50.16,
     "summ2data": 44837.5,
-    "summ3data": 8149.23,
+    "summ3data": 8147.96,
     "summary_1": "<span>50.16 mtpa</span><br>in-development<br>LNG capacity",
     "summary_1_color": "#bf532c",
     "summary_2": "<span>44837.5 MW</span><br>in-development<br>gas plant capacity",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>$8149.23M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
+    "summary_3": "<span>$8147.96M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
     "summary_3_color": "#761200"
   },
   {
@@ -289,10 +289,10 @@
   },
   {
     "Country": "Colombia",
-    "summ1data": 15.13,
+    "summ1data": 18.66,
     "summ2data": 4011.0,
     "summ3data": 100.0,
-    "summary_1": "<span>15.13 mtpa</span><br>in-development<br>LNG capacity",
+    "summary_1": "<span>18.66 mtpa</span><br>in-development<br>LNG capacity",
     "summary_1_color": "#bf532c",
     "summary_2": "<span>4011.0 MW</span><br>in-development<br>gas plant capacity",
     "summary_2_color": "#f27d16",
@@ -345,18 +345,6 @@
     "summary_2": "<span>70.0 MW</span><br>in-development<br>gas plant capacity",
     "summary_2_color": "#f27d16",
     "summary_3": "<span>$356.0M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
-    "summary_3_color": "#761200"
-  },
-  {
-    "Country": "Jamaica",
-    "summ1data": 0.0,
-    "summ2data": 0.0,
-    "summ3data": 0.0,
-    "summary_1": "<span>0.0 mtpa</span><br>in-development<br>LNG capacity",
-    "summary_1_color": "#bf532c",
-    "summary_2": "<span>0.0 MW</span><br>in-development<br>gas plant capacity",
-    "summary_2_color": "#f27d16",
-    "summary_3": "<span>$0.0M</span><br>known project<br>financing for<br>LNG/gas (million USD)",
     "summary_3_color": "#761200"
   },
   {

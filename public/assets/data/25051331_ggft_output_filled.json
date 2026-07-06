@@ -442,7 +442,7 @@
   {
     "Country": "Antigua and Barbuda",
     "Status": "Construction",
-    "Capacity (mtpa)": 0.0
+    "Capacity (mtpa)": 0.0001
   },
   {
     "Country": "Antigua and Barbuda",
@@ -622,7 +622,7 @@
   {
     "Country": "Colombia",
     "Status": "Proposed",
-    "Capacity (mtpa)": 15.129999999999999
+    "Capacity (mtpa)": 18.66
   },
   {
     "Country": "Dominican Republic",
@@ -721,31 +721,6 @@
   },
   {
     "Country": "Honduras",
-    "Status": "Proposed",
-    "Capacity (mtpa)": 0.0
-  },
-  {
-    "Country": "Jamaica",
-    "Status": "Operating",
-    "Capacity (mtpa)": 0.0
-  },
-  {
-    "Country": "Jamaica",
-    "Status": "Idle",
-    "Capacity (mtpa)": 0.0
-  },
-  {
-    "Country": "Jamaica",
-    "Status": "Shelved/shelved-inferred",
-    "Capacity (mtpa)": 0.0
-  },
-  {
-    "Country": "Jamaica",
-    "Status": "Construction",
-    "Capacity (mtpa)": 0.0
-  },
-  {
-    "Country": "Jamaica",
     "Status": "Proposed",
     "Capacity (mtpa)": 0.0
   },

@@ -580,26 +580,6 @@
     "Capacity (MW)": 0.0
   },
   {
-    "Country": "Jamaica",
-    "Status": "Announced",
-    "Capacity (MW)": 0.0
-  },
-  {
-    "Country": "Jamaica",
-    "Status": "Pre-construction",
-    "Capacity (MW)": 0.0
-  },
-  {
-    "Country": "Jamaica",
-    "Status": "Construction",
-    "Capacity (MW)": 0.0
-  },
-  {
-    "Country": "Jamaica",
-    "Status": "Shelved/shelved-inferred",
-    "Capacity (MW)": 143.0
-  },
-  {
     "Country": "Nicaragua",
     "Status": "Announced",
     "Capacity (MW)": 150.0
