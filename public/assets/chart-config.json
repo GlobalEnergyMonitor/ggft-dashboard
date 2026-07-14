@@ -1,28 +1,4 @@
 {
-    "28357045": {
-        "title": "In-development LNG capacity by status",
-        "subtitle": "LNG capacity (mtpa)",
-        "x_axis": "Status",
-        "values": [
-            "Capacity (mtpa)"
-        ],
-        "dataset": "25051331_ggft_output_filled",
-        "initial_state": "All",
-        "filterable": true,
-        "filter_by": "Country"
-    },
-    "28357048": {
-        "title": "In-development gas plant by status",
-        "subtitle": "Gas capacity (MW)",
-        "x_axis": "Status",
-        "values": [
-            "Capacity (MW)"
-        ],
-        "dataset": "25051458_ggft_output_filled",
-        "initial_state": "All",
-        "filterable": true,
-        "filter_by": "Country"
-    },
     "28357023": {
         "title": "LNG capacity in development",
         "subtitle": "New LNG capacity (mtpa)",
@@ -43,6 +19,30 @@
                 "New gas capacity (MW)"
         ],
         "dataset": "25088647_ggft_output_filled",
+        "initial_state": "All",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "28357045": {
+        "title": "In-development LNG capacity by status",
+        "subtitle": "LNG capacity (mtpa)",
+        "x_axis": "Status",
+        "values": [
+            "Capacity (mtpa)"
+        ],
+        "dataset": "25051331_ggft_output_filled",
+        "initial_state": "All",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "28357048": {
+        "title": "In-development gas plant by status",
+        "subtitle": "Gas capacity (MW)",
+        "x_axis": "Status",
+        "values": [
+            "Capacity (MW)"
+        ],
+        "dataset": "25051458_ggft_output_filled",
         "initial_state": "All",
         "filterable": true,
         "filter_by": "Country"

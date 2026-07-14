@@ -1,6 +1,6 @@
 {
   "title": "Explore data in the Global Gas Finance Tracker",
-  "footer": "All data comes from GEM's [Global Gas Finance Tracker](https://globalenergymonitor.org/projects/global-gas-finance-tracker/), last updated in December 2025. The Gas Finance Tracker is a dataset of financial transactions to in-development LNG terminals and gas-fired power plants. The tracker includes information on project financiers, transaction amounts, financial institutions, financing status, dates of financial close, and more. The data release covers 13 East and Southeast Asian countries, 2 North American countries, and 1 country in Oceania: Australia, Bangladesh, Canada, Cambodia, Indonesia, Japan, Malaysia, Mexico, Myanmar, Pakistan, the Philippines, Singapore, South Korea, Taiwan, Thailand, and Vietnam.",
+  "footer": "All data comes from GEM's Global Gas Finance Tracker, last updated in July 2026. The Gas Finance Tracker is a dataset of financial transactions to in-development LNG terminals and gas-fired power plants. The tracker includes information on project financiers, transaction amounts, financial institutions, financing status, dates of financial close, and more. The data release covers 13 East and Southeast Asian countries, 20 North, Central, South American and Caribbean countries/territories, and 1 country in Oceania: Antigua and Barbuda, Argentina, Aruba, Australia, Bahamas, Bangladesh, Bolivia, Brazil, Canada, Cambodia, Chile, Colombia, Dominican Republic, Ecuador, Guyana, Honduras, Indonesia, Japan, Malaysia, Mexico, Myanmar, Nicaragua, Pakistan, Panama, Peru, the Philippines, Puerto Rico, Singapore, South Korea, Suriname, Taiwan, Thailand, Venezuela, and Vietnam.",
   "dropdown_label": "Select a Country: ",
   "no_data": "No data available for {{selected}}",
   "dropdown": [
@@ -8,12 +8,36 @@
       "Country": "All",
       "overall_summary": " "
     },    
+    {
+      "Country": "Antigua and Barbuda",
+      "overall_summary": "As of March 2026, Barbuda’s only developing LNG project and gas-power project are constructed, but stalled due to dredging issues, necessitating increasing state involvement in what was originally a joint venture between private companies"
+    },
+    {
+      "Country": "Argentina",
+      "overall_summary": "Several phases of LNG export terminals appear to have reached or to be approaching FID, with a few others yet to attain it. By contrast, all but one gas-fired power project are shelved, with no known progress in several years: many previously-approved projects and contracts were cancelled in 2023"
+    },
+    {
+      "Country": "Aruba",
+      "overall_summary": "As of March 2026, Aruba has no new gas-fired power plants in the development pipeline, and has cancelled the contract for its only planned LNG terminal after repeated delays. Interest remains in the development of LNG projects"
+    },
     { "Country": "Australia",
       "overall_summary": "Most of Australia’s gas power plants and LNG terminals are in early stages/pre-FID, with many showing delays, timeline revisions, or corporate statements that FID has not yet been obtained. In some cases, however, budgeted government and bank financing has been identified for gas power plants as well as both domestic and Japanese financing for LNG terminals."
     },
     {
+      "Country": "Bahamas",
+      "overall_summary": "Two sets of linked LNG terminal/power station projects have recently achieved minor to major financing packages. For both projects, LNG terminal construction will proceed first, with power station construction contingent on further financing and infrastructure development"
+    },
+    {
       "Country": "Bangladesh",
       "overall_summary": "Project finance for proposed LNG import terminals remains opaque, as Bangladesh’s interim government scrapped deals with prospective LNG developers. In the power sector, prospective gas plant projects are in varying stages of development and financing."
+    },
+    {
+      "Country": "Bolivia",
+      "overall_summary": "As of March 2026, Bolivia has no proposed LNG terminals but is developing a gas-fired power plant as part of an upstream-midstream-downstream development (incorporating planned exploration and production, pipelines, and a power station)"
+    },
+    {
+      "Country": "Brazil",
+      "overall_summary": "While many LNG and gas-fired power projects have remained shelved or stalled for years, many seemingly dormant gas-fired power projects now appear to have had successful bids in Brazil’s 2026 energy auctions, suggesting large-scale development is on the horizon"
     },
     { "Country": "Canada",
       "overall_summary": "The majority of Canada’s gas power projects are in early stages and confirmed to be pre-FID, with many of the new projects proposed to support new AI data center buildout. Many Canadian LNG projects remain pre-FID as well, but heavy involvement from domestic and international banks and ECAs has been identified among projects already receiving financing. "
@@ -21,6 +45,30 @@
     {
       "Country": "Cambodia",
       "overall_summary": "Cambodia’s two potential LNG import projects still appear to be seeking financing, as does its developing power plant."
+    },
+    {
+      "Country": "Chile",
+      "overall_summary": "Chile’s three developing gas-fired power plants and one of its developing LNG terminals have few public financing details, but appear to be progressing. Another developing LNG terminal secured a major financing package, but has not been completed in the decade since"
+    },
+    {
+      "Country": "Colombia",
+      "overall_summary": "Colombia’s fleet of proposed LNG import terminals have yet to reach major financial milestones, and only one new set of thermal generation projects has received a Firm Energy Supply allocation"
+    },
+    {
+      "Country": "Dominican Republic",
+      "overall_summary": "Most of the Dominican Republic’s proposed fossil gas infrastructure is under construction, with international, multi-entity financial facilities arranged for several projects"
+    },
+    {
+      "Country": "Ecuador",
+      "overall_summary": "Both of Ecuador’s proposed import terminal projects appear to be shelved or early-stage without having reached FID. Meanwhile, contracts for most or all gas-fired power projects have been cancelled, with the relevant Ecuadorean authorities even filing lawsuits and criminal complaints against former developers"
+    },
+    {
+      "Country": "Guyana",
+      "overall_summary": "A developing LNG export project and gas-fired power project are facing lengthy and significantly delayed project timelines (as well as cost overruns for the power project), but appear to be proceeding."
+    },
+    {
+      "Country": "Honduras",
+      "overall_summary": "Honduras’ first LNG import terminal and an associated gas power plant are under development, and have received initial equity and established supply contracts. However, there are serious concerns over contracting transparency and the financial viability of the projects for Honduran taxpayers"
     },
     {
       "Country": "Indonesia",
@@ -42,12 +90,28 @@
       "overall_summary": "Political instability appears to have delayed both LNG import and gas power projects,  and financing commitments have yet to materialize."
     },
     {
+      "Country": "Nicaragua",
+      "overall_summary": "Lack of detail and forward progress, as well as conflicting reports on construction completeness, suggests that Nicaragua’s lone LNG import terminal and two power plants have been indefinitely stalled, with no definitive FID reached"
+    },
+    {
       "Country": "Pakistan",
       "overall_summary": "Several LNG import terminals have been shelved; the remaining terminals are proposed  with no identifiable project financing as yet. No known gas power plant projects are in development."
     },
     {
+      "Country": "Panama",
+      "overall_summary": "Panama’s developing LNG and gas-fired power projects face uncertainty, with make-or-break decisions likely to be made in 2026\\. A linked LNG import terminal and gas-fired power plant were cancelled by the Panamanian government, but may yet be revived after the backing company sued the government and alleged competitors. Meanwhile, an announced coal-to-gas conversion at a (currently mothballed) captive coal plant is up in the air, with some indications that the plant will stick to using imported coal rather than gas"
+    },
+    {
+      "Country": "Peru",
+      "overall_summary": "Peru announced a large slate of LNG and gas-fired power plant projects in June 2025, but only one planned LNG export project and two planned gas-fired power stations have a significant level of publicly shared planning and detail. Each of these three projects predate the 2025 announcement and are or until recently were considered shelved, with some historic investment for the terminal and one power station, but no firm FID or concrete plans for construction for any"
+    },
+    {
       "Country": "Philippines",
       "overall_summary": "Several import terminals are proposed or are in construction, but project financing details remain thin. In the gas power sector, upcoming projects are poised to enter operation by 2030, with equity from Philippines and American parent companies making up the bulk of known project financing."
+    },
+    {
+      "Country": "Puerto Rico",
+      "overall_summary": "Two proposed gas-fired power plant updates remain on the table, but their progress is unclear"
     },
     {
       "Country": "Singapore",
@@ -58,12 +122,20 @@
       "overall_summary": "South Korea’s LNG build-out is progressing, with the bulk of known project financing stemming from domestic sources. On the gas power front, most units remain in early stages, with limited project finance information available yet. "
     },
     {
+      "Country": "Suriname",
+      "overall_summary": "One of Suriname’s two proposed LNG export projects appears headed towards FID in late 2026, while the other has been stalled since 2023 and may be being slowly dismantled. No gas-fired power projects are known to be in development"
+    },
+    {
       "Country": "Taiwan",
       "overall_summary": "Most of the known project finance for Taiwan’s developing LNG import terminals stems from equity investments from the state-owned oil and gas company, CPC, while for gas power projects, multiple commercial bank loans have been uncovered. "
     },
     {
       "Country": "Thailand",
       "overall_summary": "Financing remains opaque for Thailand’s four developing LNG terminal units. Developing gas power units span planning and construction statuses, with a small amount of project financing discovered from a bank loan and parent company equity investments."
+    },
+    {
+      "Country": "Venezuela",
+      "overall_summary": "Venezuela’s lone proposed LNG terminal appears indefinitely shelved, with no known progress made since its announcement in 2022"
     },
     {
       "Country": "Vietnam",

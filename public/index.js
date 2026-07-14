@@ -27,12 +27,12 @@ async function getData() {
         .then(() => {
             const dataURLS = [];
             config.dashboard.flourish_ids.forEach(id => {
-                dataURLS.push(`./assets/data_2025/${config.charts[id].dataset}.json`);
+                dataURLS.push(`./assets/data/${config.charts[id].dataset}.json`);
                 config.datasets[id] = [];
             })
             if (config.dashboard.tickers) {
                 dataURLS.push('https://public.flourish.studio/visualisation/28342067/visualisation.json') // this assumes we want the same template for all tickers
-                dataURLS.push(`./assets/data_2025/${config.dashboard.ticker_data}.json`)
+                dataURLS.push(`./assets/data/${config.dashboard.ticker_data}.json`)
                 config.datasets.ticker = {};
             }
             const fetches = [];

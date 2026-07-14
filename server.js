@@ -32,7 +32,7 @@ app.use("/flourish", createProxyMiddleware({
 		pathRewrite: { "^/flourish": "" }
 	}));
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 8000;
 app.listen(port, () => {
 	console.log(`Listening on http://localhost:${port}`);
 });
