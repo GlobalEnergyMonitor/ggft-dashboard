@@ -23,21 +23,21 @@
             "font-size": "3rem"
         }
     },
-
-    {
-        "id": "summary_2",
-        "decimal_places": 2,
-        "style": {
-            "color": "#7F142A",
-            "font-weight": "bold",
-            "font-size": "3rem"
-        }
-    },
     {
         "id": "summary_3",
         "decimal_places": 2,
         "style": {
-            "color": "#065",
+            "color": "#f27d16",
+            "font-weight": "bold",
+            "font-size": "3rem"
+        }
+
+    },
+    {
+        "id": "summary_2",
+        "decimal_places": 2,
+        "style": {
+            "color": "#761200", 
             "font-weight": "bold",
             "font-size": "3rem"
         }
